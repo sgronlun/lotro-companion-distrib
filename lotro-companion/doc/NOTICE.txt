@@ -1,0 +1,25 @@
+   =========================================================================
+   ==  NOTICE file corresponding to the section 4 d of                    ==
+   ==  the Apache License, Version 2.0,                                   ==
+   ==  in this case for the LOTRO Companion distribution.                 ==
+   =========================================================================
+
+LOTRO Companion
+Copyright 2011-2012 Damien MORCELLET
+
+This product includes software developed by The Apache Software Foundation (http://www.apache.org/):
+- log4j (http://projects.apache.org/projects/log4j.html)
+- commons-httpclient: http://projects.apache.org/projects/commons_httpclient.html
+- commons-logging: http://projects.apache.org/projects/commons_logging.html
+
+This product includes software developed by JFree.org (http://www.jfree.org/):
+- JCommon: http://www.jfree.org/jcommon/
+- JFreeChart: http://www.jfree.org/jfreechart/
+
+This product includes software developed by SourceForge (http://www.sourceforge.net/):
+- Jericho HTML: http://sourceforge.net/projects/jerichohtml/
+
+This product includes software developed by Douglas Crockford:
+- JSON-java: https://github.com/douglascrockford/JSON-java. LOTRO Companion has packaged it as a Maven artefact (delta-json-1.0).
+
+The rest of the software (delta-*.jar) has been developed by Damien MORCELLET.

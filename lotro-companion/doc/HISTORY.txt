@@ -1,0 +1,19 @@
+LOTRO Companion
+Release Notes / History
+
+1.1   (2012-11-17)
+This release is the first release to provide additional features, compared to the my.lotro.com web site.
+Main features/bug fixes are:
+	- reputation window
+	- crafting window
+	- homogeneous color theme
+	- better automatic location of windows
+	- added items count (filtered/total) in character log window
+	- added a 'fix' button in the character log window to repair logs that contain 'completed a deed/quest' items
+	- fixed a bug that prevented it from running under Linux
+
+1.0   (2012-09-20) Initial Release
+This release has more or less the same features as the character equipment/log pages of the my.lotro.com web site.
+	- main characters management window
+	- character window (equipment, stats)
+	- character log window
