@@ -17,6 +17,7 @@ Mac OS has not been tested but hopefully it will work since its pure Java code.
 -----------
 Run the "LotroCompanion.exe" file.
 It will check if you have a suitable Java Runtime Environment and link you to the Oracle site to download/install one if needed.
+This executable will check 32-bit JRE only, so if you have a 64-bit JRE, it will not be found.
 
 1.2 Linux
 ---------
@@ -31,8 +32,8 @@ The current version cannot use a proxy, except if it's transparent for applicati
 2. UPGRADING FROM A PREVIOUS VERSION
 ====================================
 
-2.1 FROM LOTRO COMPANION 1.0
-----------------------------
+2.1 FROM LOTRO COMPANION 1.0 or 2.0
+-----------------------------------
 Install the new version in its own directory.
 Copy or move all the files/directories in the data/characters of the old installation to the data/characters directory in the new installation.
 
