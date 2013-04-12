@@ -1,7 +1,15 @@
 LOTRO Companion
 Release Notes / History
 
-1.1   (2012-11-17)
+3.0   (2013-03-16)
+Main features are:
+	- warbands statistics (on several toons)
+	- levelling graphics (on several toons)
+	- more 'spicy' GUI (textured panels, icons...)
+	- 'about' window with version, contact e-mail and contributors
+and many small bug fixes
+
+2.0   (2012-11-17)
 This release is the first release to provide additional features, compared to the my.lotro.com web site.
 Main features/bug fixes are:
 	- reputation window
