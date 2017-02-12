@@ -1,6 +1,13 @@
 LOTRO Companion
 Release Notes / History
 
+4.0beta1 (2017-02-01)
+Rebirth of the application.
+Old features based on character log won't work anymore (since my.lotro.com has been stopped).
+Now the main goal of the application is simulation.
+It will compute the stats of characters based on what gear/virtues/buffs you're using.
+It has been tested to be quite accurate on several level 100-105 characters of different classes/races (not all of them).
+
 3.0   (2013-03-16)
 Main features are:
 	- warbands statistics (on several toons)

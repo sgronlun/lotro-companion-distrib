@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character name="Glumlug" server="Elendilmir" class="Hunter" race="Dwarf" region="Grey Mountains" level="100" date="1485013149196">
+<stats>
+<stat name="MORALE" value="1492100"/>
+<stat name="POWER" value="563100"/>
+<stat name="ARMOUR" value="985900"/>
+<stat name="MIGHT" value="10200"/>
+<stat name="AGILITY" value="352400"/>
+<stat name="VITALITY" value="313500"/>
+<stat name="WILL" value="8300"/>
+<stat name="FATE" value="37900"/>
+<stat name="CRITICAL_RATING" value="1219850"/>
+<stat name="CRITICAL_MELEE_PERCENTAGE" value="2090"/>
+<stat name="CRITICAL_RANGED_PERCENTAGE" value="2090"/>
+<stat name="CRITICAL_TACTICAL_PERCENTAGE" value="2090"/>
+<stat name="DEVASTATE_MELEE_PERCENTAGE" value="840"/>
+<stat name="DEVASTATE_RANGED_PERCENTAGE" value="840"/>
+<stat name="DEVASTATE_TACTICAL_PERCENTAGE" value="840"/>
+<stat name="CRIT_DEVASTATE_MAGNITUDE_MELEE_PERCENTAGE" value="2890"/>
+<stat name="CRIT_DEVASTATE_MAGNITUDE_RANGED_PERCENTAGE" value="2890"/>
+<stat name="CRIT_DEVASTATE_MAGNITUDE_TACTICAL_PERCENTAGE" value="2890"/>
+<stat name="FINESSE" value="901900"/>
+<stat name="FINESSE_PERCENTAGE" value="1850"/>
+<stat name="PHYSICAL_MASTERY" value="3654400"/>
+<stat name="MELEE_DAMAGE_PERCENTAGE" value="9870"/>
+<stat name="RANGED_DAMAGE_PERCENTAGE" value="10870"/>
+<stat name="TACTICAL_MASTERY" value="98200"/>
+<stat name="TACTICAL_DAMAGE_PERCENTAGE" value="270"/>
+<stat name="OUTGOING_HEALING_PERCENTAGE" value="240"/>
+<stat name="RESISTANCE" value="807400"/>
+<stat name="RESISTANCE_PERCENTAGE" value="1690"/>
+<stat name="CRITICAL_DEFENCE" value="28300"/>
+<stat name="MELEE_CRITICAL_DEFENCE" value="280"/>
+<stat name="RANGED_CRITICAL_DEFENCE" value="280"/>
+<stat name="TACTICAL_CRITICAL_DEFENCE" value="280"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" value="0"/>
+<stat name="BLOCK" value="30750"/>
+<stat name="BLOCK_PERCENTAGE" value="60"/>
+<stat name="PARTIAL_BLOCK_PERCENTAGE" value="80"/>
+<stat name="PARTIAL_BLOCK_MITIGATION_PERCENTAGE" value="1080"/>
+<stat name="PARRY" value="725200"/>
+<stat name="PARRY_PERCENTAGE" value="1370"/>
+<stat name="PARTIAL_PARRY_PERCENTAGE" value="1530"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="2550"/>
+<stat name="EVADE" value="1057200"/>
+<stat name="EVADE_PERCENTAGE" value="1300"/>
+<stat name="PARTIAL_EVADE_PERCENTAGE" value="1850"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="3100"/>
+<stat name="PHYSICAL_MITIGATION" value="1348480"/>
+<stat name="PHYSICAL_MITIGATION_PERCENTAGE" value="4880"/>
+<stat name="OCFW_MITIGATION" value="559760"/>
+<stat name="OCFW_MITIGATION_PERCENTAGE" value="2680"/>
+<stat name="TACTICAL_MITIGATION" value="467480"/>
+<stat name="TACTICAL_MITIGATION_PERCENTAGE" value="2350"/>
+<stat name="FIRE_MITIGATION_PERCENTAGE" value="2350"/>
+<stat name="LIGHTNING_MITIGATION_PERCENTAGE" value="2350"/>
+<stat name="FROST_MITIGATION_PERCENTAGE" value="2350"/>
+<stat name="ACID_MITIGATION_PERCENTAGE" value="2350"/>
+<stat name="SHADOW_MITIGATION_PERCENTAGE" value="2350"/>
+<stat name="OCMR" value="2315810"/>
+<stat name="ICMR" value="87550"/>
+<stat name="OCPR" value="965968"/>
+<stat name="ICPR" value="91809"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
+<stat name="WOODWORKER_CRIT_CHANCE_PERCENTAGE" value="2500"/>
+<stat name="FARMER_MINING_DURATION" value="-400"/>
+<stat name="FORESTER_CHOPPING_DURATION" value="-400"/>
+</stats>
+<equipment>
+<equipmentSlot name="LEFT_EAR">
+<item key="1879294687" name="Adept Officer's Dextrous Earring" level="176" slot="EAR" category="ITEM" subCategory="" unique="false" durability="60" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="95" description="">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091722950"/>
+<stats>
+<stat name="AGILITY" value="21700"/>
+<stat name="VITALITY" value="18600"/>
+<stat name="FINESSE" value="215200"/>
+<stat name="PHYSICAL_MASTERY" value="56300"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="RIGHT_EAR">
+<item key="1879295314" name="Skilled Vanguard's Dextrous Earring" level="176" slot="EAR" category="ITEM" subCategory="" unique="false" durability="60" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="95" description="">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091723023"/>
+<stats>
+<stat name="POWER" value="17000"/>
+<stat name="AGILITY" value="21700"/>
+<stat name="VITALITY" value="18600"/>
+<stat name="FATE" value="6200"/>
+<stat name="CRITICAL_RATING" value="42200"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="NECK">
+<item key="1879297874" name="Fifth Hunter's Necklace of The Hornburg" level="176" slot="NECK" category="ITEM" subCategory="" unique="false" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="95" requiredClass="Hunter" description="">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091723031"/>
+<stats>
+<stat name="AGILITY" value="21700"/>
+<stat name="VITALITY" value="18600"/>
+<stat name="CRITICAL_RATING" value="56300"/>
+<stat name="PHYSICAL_MASTERY" value="70400"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="POCKET">
+<item key="1879295067" name="Skilled Vanguard's Dextrous Token" level="176" slot="POCKET" category="ITEM" subCategory="" unique="false" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="95" description="">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091722970"/>
+<stats>
+<stat name="MORALE" value="19600"/>
+<stat name="AGILITY" value="21700"/>
+<stat name="VITALITY" value="18600"/>
+<stat name="CRITICAL_RATING" value="56300"/>
+<stat name="PHYSICAL_MASTERY" value="42200"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="LEFT_WRIST">
+<item key="1879299789" name="Eighth Hunter's Bracelet of The Hornburg" level="176" slot="WRIST" category="ITEM" subCategory="" unique="false" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="95" requiredClass="Hunter" description="">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091722980"/>
+<stats>
+<stat name="POWER" value="17000"/>
+<stat name="AGILITY" value="18600"/>
+<stat name="VITALITY" value="21700"/>
+<stat name="CRITICAL_RATING" value="56300"/>
+<stat name="FINESSE" value="129100"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="RIGHT_WRIST">
+<item key="1879284771" name="Copper Bracelet of the Hornburg" level="176" slot="WRIST" category="ITEM" subCategory="" unique="false" durability="80" sturdiness="NORMAL" quality="RARE" description="">
+<property key="backgroundIconId" value="1090519043"/>
+<property key="iconId" value="1091722963"/>
+<stats>
+<stat name="MORALE" value="29400"/>
+<stat name="AGILITY" value="18600"/>
+<stat name="VITALITY" value="15500"/>
+<stat name="FATE" value="7700"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="LEFT_FINGER">
+<item key="1879295167" name="Master Engineer's Dextrous Ring" level="176" slot="FINGER" category="ITEM" subCategory="" unique="false" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="95" description="">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091723017"/>
+<stats>
+<stat name="AGILITY" value="21700"/>
+<stat name="VITALITY" value="18600"/>
+<stat name="CRITICAL_RATING" value="42200"/>
+<stat name="PHYSICAL_MASTERY" value="84500"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="RIGHT_FINGER">
+<item key="1879299656" name="Eighth Hunter's Ring of The Hornburg" level="176" slot="FINGER" category="ITEM" subCategory="" unique="false" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="95" requiredClass="Hunter" description="">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091723017"/>
+<stats>
+<stat name="AGILITY" value="18600"/>
+<stat name="VITALITY" value="21700"/>
+<stat name="CRITICAL_RATING" value="42200"/>
+<stat name="PHYSICAL_MASTERY" value="84500"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="HEAD">
+<item key="1879284636" name="Pride of Helm's Deep" level="176" slot="HEAD" category="ARMOUR" subCategory="" unique="false" sturdiness="NORMAL" quality="INCOMPARABLE" description="" armour="741" armourType="MEDIUM">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091764735"/>
+<stats>
+<stat name="AGILITY" value="21700"/>
+<stat name="VITALITY" value="18600"/>
+<stat name="FATE" value="7700"/>
+<stat name="PHYSICAL_MASTERY" value="56300"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="SHOULDER">
+<item key="1879310230" name="Reinforced Shoulderpads of the Valleys" level="192" slot="SHOULDER" category="ARMOUR" subCategory="" unique="false" sturdiness="NORMAL" quality="RARE" description="" armour="756" armourType="MEDIUM">
+<property key="backgroundIconId" value="1090519043"/>
+<property key="iconId" value="1091764705"/>
+<stats>
+<stat name="AGILITY" value="20500"/>
+<stat name="VITALITY" value="17100"/>
+<stat name="CRITICAL_RATING" value="46100"/>
+<stat name="FINESSE" value="234300"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="BREAST">
+<item key="1879303471" name="Enduring Fangorn Armour of Skill" level="182" slot="CHEST" category="ARMOUR" subCategory="" unique="false" durability="65" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="95" description="" armour="2552" armourType="MEDIUM">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091804422"/>
+<stats>
+<stat name="AGILITY" value="22500"/>
+<stat name="VITALITY" value="19300"/>
+<stat name="CRITICAL_RATING" value="58200"/>
+<stat name="FINESSE" value="44500"/>
+<stat name="PHYSICAL_MASTERY" value="58200"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="BACK">
+<item key="1879303497" name="Supple Fangorn Cloak of Agility" level="182" slot="BACK" category="ARMOUR" subCategory="" unique="false" durability="40" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="95" description="" armour="1151" armourType="LIGHT">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091804499"/>
+<stats>
+<stat name="AGILITY" value="22500"/>
+<stat name="VITALITY" value="19300"/>
+<stat name="CRITICAL_RATING" value="116500"/>
+<stat name="PHYSICAL_MASTERY" value="14600"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="HANDS">
+<item key="1879310244" name="Reinforced Gloves of the Great Shore" level="192" slot="HAND" category="ARMOUR" subCategory="" unique="false" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" description="" armour="1328" armourType="MEDIUM">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091764726"/>
+<stats>
+<stat name="AGILITY" value="23900"/>
+<stat name="VITALITY" value="20500"/>
+<stat name="FINESSE" value="234300"/>
+<stat name="PHYSICAL_MASTERY" value="61400"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="LEGS">
+<item key="1879303472" name="Enduring Fangorn Leggings of Skill" level="182" slot="LEGS" category="ARMOUR" subCategory="" unique="false" durability="65" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="95" description="" armour="2127" armourType="MEDIUM">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091804428"/>
+<stats>
+<stat name="AGILITY" value="22500"/>
+<stat name="VITALITY" value="19300"/>
+<stat name="CRITICAL_RATING" value="58200"/>
+<stat name="FINESSE" value="44500"/>
+<stat name="PHYSICAL_MASTERY" value="58200"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="FEET">
+<item key="1879310213" name="Boots of the Great Shore" level="192" slot="FEET" category="ARMOUR" subCategory="" unique="false" durability="50" sturdiness="NORMAL" quality="RARE" description="" armour="1009">
+<property key="backgroundIconId" value="1090519043"/>
+<property key="iconId" value="1091764720"/>
+<stats>
+<stat name="AGILITY" value="20500"/>
+<stat name="VITALITY" value="17100"/>
+<stat name="FATE" value="8500"/>
+<stat name="PHYSICAL_MASTERY" value="46100"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="MAIN_MELEE">
+<item key="1879219219" name="Crafted Hunter's Sword of the Third Age" level="75" slot="MAIN_HAND" category="LEGENDARY_WEAPON" subCategory="" binding="BIND_ON_EQUIP" unique="false" durability="100" sturdiness="NORMAL" quality="RARE" minLevel="75" requiredClass="Hunter" description="" dps="83.6" minDamage="119" maxDamage="198" damageType="BELERIAND" weaponType="ONE_HANDED_SWORD">
+<relic type="SETTING" name="Westfold Setting of Endings"/>
+<relic type="GEM" name="Westfold Gem of Hope"/>
+<relic type="RUNE" name="Westfold Rune of Power"/>
+<relic type="CRAFTED_RELIC" name="Symbol of Accuracy"/>
+<property key="backgroundIconId" value="1091472970"/>
+<property key="iconId" value="1091667951"/>
+<property key="iconURL" value="http://content.turbine.com/sites/lorebook.lotro.com/images/icons/item/weapon_sword/eq_ia_craft_hunter_1hsword_rare_lvl75_1.png"/>
+<property key="itemKey" value="Weapon:Crafted_Hunter%27s_Sword_of_the_Third_Age"/>
+<stats>
+<stat name="PHYSICAL_MASTERY" value="30000"/>
+<stat name="PARRY_PERCENTAGE" value="100"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="OTHER_MELEE">
+<item key="1879313704" name="Mace of Morthond" level="192" slot="MAIN_HAND" category="WEAPON" subCategory="30" unique="false" durability="100" sturdiness="NORMAL" quality="RARE" description="" dps="234.1" minDamage="334" maxDamage="556" damageType="ANCIENT_DWARF" weaponType="ONE_HANDED_MACE">
+<property key="backgroundIconId" value="1090519043"/>
+<property key="iconId" value="1091768299"/>
+<stats>
+<stat name="AGILITY" value="20500"/>
+<stat name="VITALITY" value="17100"/>
+<stat name="CRITICAL_RATING" value="46100"/>
+<stat name="PHYSICAL_MASTERY" value="76800"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="RANGED">
+<item key="1879278454" name="Reforged Hunter's Bow of the Second Age" level="95" slot="RANGED_ITEM" category="LEGENDARY_WEAPON" subCategory="" unique="false" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="95" requiredClass="Hunter" description="" dps="234.2" minDamage="366" maxDamage="665" damageType="COMMON" weaponType="BOW">
+<property key="backgroundIconId" value="1091472985"/>
+<property key="iconId" value="1091831583"/>
+<stats/>
+</item>
+</equipmentSlot>
+<equipmentSlot name="TOOL">
+<item key="1879283859" name="Superior Tools of the Westemnet Woodsman" level="90" slot="TOOL" category="ITEM" subCategory="Crafting Tool" unique="false" durability="60" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="90" description="A collection of indispensable tools for woodworkers, foresters, and farmers.">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091514024"/>
+<stats>
+<stat name="RANGED_DAMAGE_PERCENTAGE" value="1000"/>
+<stat name="WOODWORKER_CRIT_CHANCE_PERCENTAGE" value="2500"/>
+<stat name="FARMER_MINING_DURATION" value="-400"/>
+<stat name="FORESTER_CHOPPING_DURATION" value="-400"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="CLASS_ITEM">
+<item key="1879251204" name="Eastemnet Tome of the Whisper-draw" level="85" slot="CLASS_SLOT" category="ITEM" subCategory="Hunter:Whisper-draw" unique="false" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="80" requiredClass="Hunter" description="Greatly reduces threat generated when attacking and grants additional Morale.">
+<property key="backgroundIconId" value="1090531554"/>
+<property key="iconId" value="1091509868"/>
+<stats>
+<stat name="MORALE" value="34300"/>
+</stats>
+</item>
+</equipmentSlot>
+</equipment>
+<virtues>
+<virtue id="CHARITY" rank="17"/>
+<virtue id="COMPASSION" rank="16" index="1"/>
+<virtue id="CONFIDENCE" rank="14"/>
+<virtue id="DETERMINATION" rank="9"/>
+<virtue id="DISCIPLINE" rank="8"/>
+<virtue id="EMPATHY" rank="16"/>
+<virtue id="FIDELITY" rank="16" index="4"/>
+<virtue id="FORTITUDE" rank="10"/>
+<virtue id="HONESTY" rank="18"/>
+<virtue id="HONOUR" rank="12"/>
+<virtue id="IDEALISM" rank="18"/>
+<virtue id="JUSTICE" rank="8"/>
+<virtue id="LOYALTY" rank="15"/>
+<virtue id="MERCY" rank="7"/>
+<virtue id="PATIENCE" rank="12"/>
+<virtue id="INNOCENCE" rank="19" index="3"/>
+<virtue id="TOLERANCE" rank="13"/>
+<virtue id="VALOUR" rank="10" index="2"/>
+<virtue id="WISDOM" rank="13"/>
+<virtue id="ZEAL" rank="13" index="0"/>
+</virtues>
+<tomes>
+<tome stat="MIGHT" rank="0"/>
+<tome stat="AGILITY" rank="2"/>
+<tome stat="VITALITY" rank="0"/>
+<tome stat="WILL" rank="0"/>
+<tome stat="FATE" rank="0"/>
+</tomes>
+<buffs/>
+<additionalStats/>
+</character>

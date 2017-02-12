@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character name="Kargarth" server="Landroval" class="Guardian" race="Dwarf" level="100" shortDescription="My favorite tank" date="1485644400000">
+<stats>
+<stat name="MORALE" value="2356331"/>
+<stat name="POWER" value="637300"/>
+<stat name="ARMOUR" value="1212200"/>
+<stat name="MIGHT" value="359500"/>
+<stat name="AGILITY" value="14700"/>
+<stat name="VITALITY" value="310900"/>
+<stat name="WILL" value="8000"/>
+<stat name="FATE" value="30000"/>
+<stat name="CRITICAL_RATING" value="694600"/>
+<stat name="CRITICAL_MELEE_PERCENTAGE" value="1490"/>
+<stat name="CRITICAL_RANGED_PERCENTAGE" value="1490"/>
+<stat name="CRITICAL_TACTICAL_PERCENTAGE" value="1490"/>
+<stat name="DEVASTATE_MELEE_PERCENTAGE" value="500"/>
+<stat name="DEVASTATE_RANGED_PERCENTAGE" value="500"/>
+<stat name="DEVASTATE_TACTICAL_PERCENTAGE" value="500"/>
+<stat name="CRIT_DEVASTATE_MAGNITUDE_MELEE_PERCENTAGE" value="1880"/>
+<stat name="CRIT_DEVASTATE_MAGNITUDE_RANGED_PERCENTAGE" value="1880"/>
+<stat name="CRIT_DEVASTATE_MAGNITUDE_TACTICAL_PERCENTAGE" value="1880"/>
+<stat name="FINESSE" value="468500"/>
+<stat name="FINESSE_PERCENTAGE" value="1060"/>
+<stat name="PHYSICAL_MASTERY" value="3293600"/>
+<stat name="MELEE_DAMAGE_PERCENTAGE" value="9890"/>
+<stat name="RANGED_DAMAGE_PERCENTAGE" value="8890"/>
+<stat name="TACTICAL_MASTERY" value="2980700"/>
+<stat name="TACTICAL_DAMAGE_PERCENTAGE" value="8050"/>
+<stat name="OUTGOING_HEALING_PERCENTAGE" value="4390"/>
+<stat name="RESISTANCE" value="986600"/>
+<stat name="RESISTANCE_PERCENTAGE" value="1990"/>
+<stat name="CRITICAL_DEFENCE" value="1287300"/>
+<stat name="MELEE_CRITICAL_DEFENCE" value="5630"/>
+<stat name="RANGED_CRITICAL_DEFENCE" value="5630"/>
+<stat name="TACTICAL_CRITICAL_DEFENCE" value="5630"/>
+<stat name="INCOMING_HEALING" value="742820"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" value="1550"/>
+<stat name="BLOCK" value="1363850"/>
+<stat name="BLOCK_PERCENTAGE" value="1300"/>
+<stat name="PARTIAL_BLOCK_PERCENTAGE" value="2110"/>
+<stat name="PARTIAL_BLOCK_MITIGATION_PERCENTAGE" value="3560"/>
+<stat name="PARRY" value="1251800"/>
+<stat name="PARRY_PERCENTAGE" value="1700"/>
+<stat name="PARTIAL_PARRY_PERCENTAGE" value="2270"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="3650"/>
+<stat name="EVADE" value="573500"/>
+<stat name="EVADE_PERCENTAGE" value="1030"/>
+<stat name="PARTIAL_EVADE_PERCENTAGE" value="1260"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="2260"/>
+<stat name="PHYSICAL_MITIGATION" value="1668700"/>
+<stat name="PHYSICAL_MITIGATION_PERCENTAGE" value="6100"/>
+<stat name="OCFW_MITIGATION" value="698940"/>
+<stat name="OCFW_MITIGATION_PERCENTAGE" value="3620"/>
+<stat name="TACTICAL_MITIGATION" value="699040"/>
+<stat name="TACTICAL_MITIGATION_PERCENTAGE" value="3620"/>
+<stat name="FIRE_MITIGATION_PERCENTAGE" value="3620"/>
+<stat name="LIGHTNING_MITIGATION_PERCENTAGE" value="3620"/>
+<stat name="FROST_MITIGATION_PERCENTAGE" value="3620"/>
+<stat name="ACID_MITIGATION_PERCENTAGE" value="3620"/>
+<stat name="SHADOW_MITIGATION_PERCENTAGE" value="3620"/>
+<stat name="OCMR" value="2262480"/>
+<stat name="ICMR" value="88425"/>
+<stat name="OCPR" value="729000"/>
+<stat name="ICPR" value="78300"/>
+<stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
+<stat name="HOPE" value="300"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+<stat name="TAILOR_CRIT_CHANCE_PERCENTAGE" value="2500"/>
+<stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" value="2500"/>
+<stat name="PROSPECTOR_MINING_DURATION" value="-400"/>
+<stat name="PERCEIVED_THREAT" value="500"/>
+</stats>
+<equipment>
+<equipmentSlot name="LEFT_EAR">
+<item key="1879315775" name="Sturdy Earrings of the Vale" level="195" slot="EAR" category="ITEM" subCategory="" unique="false" sturdiness="NORMAL" quality="INCOMPARABLE" description="">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091722958"/>
+<stats>
+<stat name="MIGHT" value="17400"/>
+<stat name="VITALITY" value="17400"/>
+<stat name="PHYSICAL_MASTERY" value="156000"/>
+<stat name="PHYSICAL_MITIGATION" value="175600"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="RIGHT_EAR">
+<item key="1879310966" name="Master Engineer's Valourous Earring" level="192" slot="EAR" category="ITEM" subCategory="" unique="false" durability="60" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="100" description="">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1090524760"/>
+<stats>
+<stat name="MIGHT" value="23900"/>
+<stat name="VITALITY" value="20500"/>
+<stat name="FATE" value="10200"/>
+<stat name="CRITICAL_RATING" value="46100"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="NECK">
+<item key="1879310025" name="Masterful Necklace of the Valleys" level="192" slot="NECK" category="ITEM" subCategory="" unique="false" sturdiness="NORMAL" quality="RARE" description="">
+<property key="backgroundIconId" value="1090519043"/>
+<property key="iconId" value="1091723034"/>
+<stats>
+<stat name="MIGHT" value="20500"/>
+<stat name="VITALITY" value="17100"/>
+<stat name="CRITICAL_RATING" value="92200"/>
+<stat name="PHYSICAL_MASTERY" value="30700"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="POCKET">
+<item key="1879310903" name="Adept Officer's Enduring Token" level="192" slot="POCKET" category="ITEM" subCategory="" unique="false" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="100" description="">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091722973"/>
+<stats>
+<stat name="MIGHT" value="20500"/>
+<stat name="VITALITY" value="23900"/>
+<stat name="CRITICAL_DEFENCE" value="154400"/>
+<stat name="EVADE" value="172800"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="LEFT_WRIST">
+<item key="1879315768" name="Gleaming Bracelet of the Prince" level="195" slot="WRIST" category="ITEM" subCategory="" unique="false" sturdiness="NORMAL" quality="INCOMPARABLE" description="">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091722963"/>
+<stats>
+<stat name="MIGHT" value="26100"/>
+<stat name="VITALITY" value="17400"/>
+<stat name="PHYSICAL_MITIGATION" value="175600"/>
+<stat name="TACTICAL_MITIGATION" value="175600"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="RIGHT_WRIST">
+<item key="1879324229" name="Bracelet of Mighty Defiance" level="201" slot="WRIST" category="ITEM" subCategory="" unique="false" sturdiness="NORMAL" quality="INCOMPARABLE" description="" slots="3">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091958029"/>
+<stats>
+<stat name="MIGHT" value="25200"/>
+</stats>
+<essences>
+<item key="1879314557" name="Supreme Essence of Incoming Healing" level="192" category="ITEM" subCategory="Essence:Tier7" unique="false" quality="LEGENDARY" description="">
+<property key="backgroundIconId" value="1090519045"/>
+<property key="iconId" value="1091914759"/>
+<stats>
+<stat name="RESISTANCE" value="23400"/>
+<stat name="INCOMING_HEALING" value="245760"/>
+</stats>
+</item>
+<item key="1879314557" name="Supreme Essence of Incoming Healing" level="192" category="ITEM" subCategory="Essence:Tier7" unique="false" quality="LEGENDARY" description="">
+<property key="backgroundIconId" value="1090519045"/>
+<property key="iconId" value="1091914759"/>
+<stats>
+<stat name="RESISTANCE" value="23400"/>
+<stat name="INCOMING_HEALING" value="245760"/>
+</stats>
+</item>
+</essences>
+</item>
+</equipmentSlot>
+<equipmentSlot name="LEFT_FINGER">
+<item key="1879310953" name="Skilled Vanguard's Enduring Ring" level="192" slot="FINGER" category="ITEM" subCategory="" unique="false" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="100" description="">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1090524763"/>
+<stats>
+<stat name="MORALE" value="54700"/>
+<stat name="MIGHT" value="20500"/>
+<stat name="VITALITY" value="23900"/>
+<stat name="PARRY" value="138200"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="RIGHT_FINGER">
+<item key="1879310953" name="Skilled Vanguard's Enduring Ring" level="192" slot="FINGER" category="ITEM" subCategory="" unique="false" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="100" description="">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1090524763"/>
+<stats>
+<stat name="MORALE" value="54700"/>
+<stat name="MIGHT" value="20500"/>
+<stat name="VITALITY" value="23900"/>
+<stat name="PARRY" value="138200"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="HEAD">
+<item key="1879284624" name="Honour of Helm's Deep" level="176" slot="HEAD" category="ARMOUR" subCategory="" unique="false" sturdiness="NORMAL" quality="INCOMPARABLE" description="" armour="948" armourType="HEAVY">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091764723"/>
+<property key="tulkasName" value="Honor of Helm's Deep"/>
+<stats>
+<stat name="MIGHT" value="18600"/>
+<stat name="VITALITY" value="21700"/>
+<stat name="PARRY" value="95000"/>
+<stat name="EVADE" value="190100"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="SHOULDER">
+<item key="1879313776" name="Heavy Nadhin Shoulders" level="192" slot="SHOULDER" category="ARMOUR" subCategory="" unique="false" sturdiness="NORMAL" quality="INCOMPARABLE" description="" slots="4" armour="1024" armourType="HEAVY">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091916054"/>
+<stats>
+<stat name="MIGHT" value="11900"/>
+</stats>
+<essences>
+<item key="1879313574" name="Greater Essence of Critical Defence" level="192" category="ITEM" subCategory="Essence:Tier7" unique="false" quality="INCOMPARABLE" description="">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091914778"/>
+<stats>
+<stat name="CRITICAL_DEFENCE" value="308800"/>
+</stats>
+</item>
+<item key="1879313574" name="Greater Essence of Critical Defence" level="192" category="ITEM" subCategory="Essence:Tier7" unique="false" quality="INCOMPARABLE" description="">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091914778"/>
+<stats>
+<stat name="CRITICAL_DEFENCE" value="308800"/>
+</stats>
+</item>
+</essences>
+</item>
+</equipmentSlot>
+<equipmentSlot name="BREAST">
+<item key="1879268786" name="Mathom-hunter's Breastplate" level="182" slot="CHEST" category="ARMOUR" subCategory="" unique="false" durability="95" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="100" description="" armour="3263" armourType="HEAVY">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1090524945"/>
+<stats>
+<stat name="MIGHT" value="24100"/>
+<stat name="VITALITY" value="24100"/>
+<stat name="FATE" value="8000"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="BACK">
+<item key="1879310225" name="Belfalas Cloak of Might" level="192" slot="BACK" category="ARMOUR" subCategory="" unique="false" sturdiness="NORMAL" quality="UNCOMMON" description="" armour="1125">
+<property key="backgroundIconId" value="1090519042"/>
+<property key="iconId" value="1091764763"/>
+<stats>
+<stat name="MIGHT" value="17100"/>
+<stat name="VITALITY" value="13600"/>
+<stat name="FATE" value="6800"/>
+<stat name="CRITICAL_RATING" value="46100"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="HANDS">
+<item key="1879286094" name="Greater Enduring Gauntlets of Protection" level="192" slot="HAND" category="ARMOUR" subCategory="" unique="false" durability="65" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="100" description="" armour="1703" armourType="HEAVY">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1090526117"/>
+<stats>
+<stat name="MIGHT" value="20500"/>
+<stat name="VITALITY" value="23900"/>
+<stat name="CRITICAL_DEFENCE" value="154400"/>
+<stat name="PARRY" value="103700"/>
+<stat name="EVADE" value="69100"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="LEGS">
+<item key="1879285501" name="Potent Enduring Leggings of Protection" level="192" slot="LEGS" category="ARMOUR" subCategory="" unique="false" durability="90" sturdiness="TOUGH" quality="RARE" minLevel="100" description="" armour="2694" armourType="HEAVY">
+<property key="backgroundIconId" value="1090519043"/>
+<property key="iconId" value="1090538258"/>
+<stats>
+<stat name="MIGHT" value="17100"/>
+<stat name="VITALITY" value="20500"/>
+<stat name="CRITICAL_DEFENCE" value="231600"/>
+<stat name="EVADE" value="69100"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="FEET">
+<item key="1879286084" name="Greater Valourous Boots of Finesse" level="192" slot="FEET" category="ARMOUR" subCategory="" unique="false" sturdiness="NORMAL" quality="INCOMPARABLE" description="" armour="1365" armourType="HEAVY">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1090534702"/>
+<stats>
+<stat name="MIGHT" value="23900"/>
+<stat name="VITALITY" value="20500"/>
+<stat name="FINESSE" value="281100"/>
+<stat name="PHYSICAL_MASTERY" value="46100"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="MAIN_MELEE">
+<item key="1879311791" name="Reshaped Guardian's Great Axe of the First Age" slot="MAIN_HAND" category="LEGENDARY_WEAPON" subCategory="" unique="false" sturdiness="NORMAL" quality="LEGENDARY" requiredClass="Guardian" description="" dps="0.0" minDamage="0" maxDamage="0" damageType="COMMON" weaponType="TWO_HANDED_AXE">
+<relic type="SETTING" name="Westemnet Setting of Endings"/>
+<relic type="GEM" name="Emerald Gem of Endurance"/>
+<relic type="RUNE" name="True Rune of the White Mountains"/>
+<relic type="CRAFTED_RELIC" name="Westemnet Device of Battle"/>
+<property key="backgroundIconId" value="1091472984"/>
+<property key="iconId" value="1091916017"/>
+<stats>
+<stat name="MORALE" value="127600"/>
+<stat name="POWER" value="109900"/>
+<stat name="MIGHT" value="9800"/>
+<stat name="CRITICAL_RATING" value="46000"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="OTHER_MELEE"/>
+<equipmentSlot name="RANGED">
+<item key="1879285923" name="Greater Valourous Bow of Finesse" level="192" slot="RANGED_ITEM" category="WEAPON" subCategory="" unique="false" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="100" description="" dps="251.2" minDamage="392" maxDamage="713" damageType="WESTERNESSE" weaponType="BOW">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091771179"/>
+<stats>
+<stat name="MIGHT" value="23900"/>
+<stat name="VITALITY" value="20500"/>
+<stat name="CRITICAL_RATING" value="30700"/>
+<stat name="FINESSE" value="187400"/>
+<stat name="PHYSICAL_MASTERY" value="46100"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="TOOL">
+<item key="1879283840" name="Superior Tools of the Westemnet Armourer" slot="TOOL" category="ITEM" subCategory="Crafting Tool" unique="false" sturdiness="TOUGH" quality="INCOMPARABLE" description="A collection of indispensable tools for prospectors, metalsmiths, and tailors.">
+<property key="backgroundIconId" value="1090519044"/>
+<property key="iconId" value="1091514030"/>
+<stats>
+<stat name="TAILOR_CRIT_CHANCE_PERCENTAGE" value="2500"/>
+<stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" value="2500"/>
+<stat name="PROSPECTOR_MINING_DURATION" value="-400"/>
+</stats>
+</item>
+</equipmentSlot>
+<equipmentSlot name="CLASS_ITEM">
+<item key="1879165607" name="Guardian's Belt of the Second Age" slot="CLASS_SLOT" category="LEGENDARY_ITEM" subCategory="Guardian:Belt" binding="BIND_ON_EQUIP" unique="false" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="75" requiredClass="Guardian" description="">
+<relic type="SETTING" name="Westfold Setting of Stability"/>
+<relic type="GEM" name="Westfold Gem of Hope"/>
+<relic type="RUNE" name="Mysterious Rune of Defence"/>
+<relic type="CRAFTED_RELIC" name="Device of Vitality"/>
+<property key="backgroundIconId" value="1091472985"/>
+<property key="iconId" value="1091519696"/>
+<property key="iconURL" value="http://content.turbine.com/sites/lorebook.lotro.com/images/icons/item/item_guardian_belt/eq_ia_guardian_class_belt_inc_lvl65_1.png"/>
+<property key="itemKey" value="Item:Guardian%27s_Belt_of_the_Second_Age_(Level_65)"/>
+<stats>
+<stat name="PERCEIVED_THREAT" value="500"/>
+</stats>
+</item>
+</equipmentSlot>
+</equipment>
+<virtues>
+<virtue id="CHARITY" rank="19"/>
+<virtue id="COMPASSION" rank="9"/>
+<virtue id="CONFIDENCE" rank="12"/>
+<virtue id="DETERMINATION" rank="4"/>
+<virtue id="DISCIPLINE" rank="3" index="0"/>
+<virtue id="EMPATHY" rank="13"/>
+<virtue id="FIDELITY" rank="10" index="1"/>
+<virtue id="FORTITUDE" rank="5"/>
+<virtue id="HONESTY" rank="11"/>
+<virtue id="HONOUR" rank="10" index="2"/>
+<virtue id="IDEALISM" rank="11"/>
+<virtue id="JUSTICE" rank="8"/>
+<virtue id="LOYALTY" rank="13"/>
+<virtue id="MERCY" rank="4"/>
+<virtue id="PATIENCE" rank="12"/>
+<virtue id="INNOCENCE" rank="12" index="3"/>
+<virtue id="TOLERANCE" rank="10" index="4"/>
+<virtue id="VALOUR" rank="3"/>
+<virtue id="WISDOM" rank="8"/>
+<virtue id="ZEAL" rank="0"/>
+</virtues>
+<tomes>
+<tome stat="MIGHT" rank="1"/>
+<tome stat="AGILITY" rank="0"/>
+<tome stat="VITALITY" rank="0"/>
+<tome stat="WILL" rank="0"/>
+<tome stat="FATE" rank="0"/>
+</tomes>
+<buffs>
+<buff id="HOPE" tier="3"/>
+<buff id="SKILLED_DEFLECTION" tier="4"/>
+<buff id="HEAVY_BLOWS"/>
+<buff id="OVERPOWER"/>
+<buff id="SHIELD_BRAWLER"/>
+</buffs>
+<additionalStats/>
+</character>
