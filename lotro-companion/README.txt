@@ -27,12 +27,13 @@ Run the companion.sh file to launch LOTRO Companion.
 1.3 Internet connection
 -----------------------
 This new version of LOTRO Companion does not require an Internet connection.
+If you have one, it will check for available software updates (maximum once a day).
 
 2. UPGRADING FROM A PREVIOUS VERSION
 ====================================
 
-2.1 FROM LOTRO COMPANION 1.0, 2.0 or 3.0
-----------------------------------------
+2.1 FROM LOTRO COMPANION 1.0, 2.0, 3.0 or 4.0beta1
+--------------------------------------------------
 Install the new version in its own directory.
 Copy or move all the files/directories in the data/characters of the old installation to the data/characters directory in the new installation.
 

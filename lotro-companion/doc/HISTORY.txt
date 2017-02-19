@@ -1,6 +1,17 @@
 LOTRO Companion
 Release Notes / History
 
+4.0 (2017-02-19)
+Added all racial passives.
+Character clone
+Character export/import
+Essence chooser is easier to use (keeps previous filter)
+Virtues: added a 'Max all' button
+Stat tomes: added a label above each icon
+Stat tomes: right-click will decrease the tier of the stat tome
+Virtues: added a label above each icon
+Added a system to check for software updates
+
 4.0beta1 (2017-02-01)
 Rebirth of the application.
 Old features based on character log won't work anymore (since my.lotro.com has been stopped).

@@ -5,11 +5,10 @@
    =========================================================================
 
 LOTRO Companion
-Copyright 2011-2012 Damien MORCELLET
+Copyright 2011-2017 Damien MORCELLET
 
 This product includes software developed by The Apache Software Foundation (http://www.apache.org/):
 - log4j (http://projects.apache.org/projects/log4j.html)
-- commons-logging: http://projects.apache.org/projects/commons_logging.html
 
 This product includes software developed by JFree.org (http://www.jfree.org/):
 - JCommon: http://www.jfree.org/jcommon/
