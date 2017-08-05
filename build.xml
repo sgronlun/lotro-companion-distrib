@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ 
+<project name="LotRO Companion" default="default" basedir="."
+  xmlns:fx="javafx:com.sun.javafx.tools.ant">
+ 
+  <property name="JAVA_HOME" value="C:\\Program Files\\Java\\jdk1.8.0_141"/>
+  <property name="dist.dir" value="lotro-companion"/>
+  <property name="application.title" value="LotRO Companion"/>
+  <property name="application.vendor" value="dmorcellet"/>
+ 
+  <target name="default">
+ 
+    <taskdef resource="com/sun/javafx/tools/ant/antlib.xml"
+      uri="javafx:com.sun.javafx.tools.ant"
+      classpath="${JAVA_HOME}/lib/ant-javafx.jar"/>
+ 
+    <fx:application id="LotroCompanion"
+      name="LotRO Companion"
+      mainClass="delta.games.lotro.Main"/>
+ 
+    <fx:resources id="appRes">
+      <fx:fileset dir="${dist.dir}" includes="lib/delta-lotro-companion-*.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/delta-lotro-core-*.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/delta-lotro-maps-*.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/delta-common*.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/jcommon*.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/jfreechart*.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/log4j*.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/main.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/*.zip"/>
+    </fx:resources>
+
+    <fx:jar destfile="${dist.dir}/lib/main.jar">
+      <fx:application refid="LotroCompanion"/>
+      <fx:resources refid="appRes"/>
+      <fileset dir="classes"/>
+    </fx:jar>
+
+    <fx:deploy width="300" height="200"
+      nativeBundles="all"
+      outdir="packages" outfile="${application.title}">
+
+      <fx:platform>
+        <fx:jvmuserarg name="-Xms" value="256m"/>
+        <fx:jvmuserarg name="-Xmx" value="512m"/>
+      </fx:platform>
+      <fx:application refId="LotroCompanion"/>
+      <fx:resources refid="appRes"/>
+      <fx:info title="${application.title}" vendor="${application.vendor}"/>
+    </fx:deploy>
+  </target> 
+</project>

@@ -1,6 +1,21 @@
 LOTRO Companion
 Release Notes / History
 
+5.0 (2017-08-03)
+- Stash to store/retrieve items for a single character
+- Items database:
+	Support for numerous scalable items (FI drops, Osgiliath, Big Battles, landscape drops)
+	Huge improvement of performance (loading time is now ~=1s, lower memory consumption)
+	Countless fixes (fishing rods are now equippable, lol)
+- Trait points tracker
+- Maps navigation window
+- Character summary edition (name, level, region...)
+- Improved essences edition:
+	Global essences edition window
+	Essences summary window
+	Display the tier of essences in their icon
+- Moved user data to the user "home" directory for an easy migration between versions
+
 4.0 (2017-02-19)
 Added all racial passives.
 Character clone
