@@ -1,6 +1,41 @@
 LOTRO Companion
 Release Notes / History
 
+6.0 (2017-09-25)
+
+- updates for Update 21 (Mordor):
+	- maps
+	- items database (names and icons only)
+	- essences: tier 9 and 10
+	- virtues
+	- trait points
+	- relics
+	- level cap: 115
+	- high elf support
+	- new formulas for rating->percentage computations
+	- updated the stats contribution of racial traits: Shield Brawler, Balance of Man...
+	- added crafting level Doomfold
+	- stats:
+		- added 'Outgoing Healing Rating' as an independent stat
+		- added 'Light Of Eärendil'
+- major improvement of the item/essence chooser
+	- enhanced filtering
+	- added a LOT of columns
+	- columns are now configurable (displayed or not, ordering)
+- added a tooltip on buffs to show their stats contribution
+- UI enhancements:
+	- double click on a table will do the same as OK
+	- Enter is equivalent to the 'OK' button
+	- Escape is equivalent to the 'Cancel' button
+	- Closing window is equivalent to the 'Cancel' button
+	- can drag&drop a file into a date editor to put its date in it
+- added a reputation edition window
+- added a level history edition window
+- added a crafting status/history edition window
+- added a 'sex' attribute on character and use different icons for character accordingly
+- restrict race/class combinaisons
+- added Champion's buff "Critical Chance Increase" (red tree)
+
 5.0 (2017-08-03)
 - Stash to store/retrieve items for a single character
 - Items database:
