@@ -48,9 +48,9 @@ But the character log and the warbands statistics will be useless for new users.
 3.1 Known issues
 ----------------
 The items database is not perfect. But it becomes better at each version.
-Now it contains all items/icons for Update 21.1 (25/09/2017). But Mordor icons do not have stats.
-The application handles a lot of scalable items. May be some are not managed. In this case, it will provide only a given level of each such item.
-The application does not include all possible buff (even if we're talking only about passives).
+Now it contains all items/icons for Update 21.3.1 (14/12/2017), with stats for most Mordor items.
+The application handles a lot of scalable items. Some are not managed. In this case, it will provide only a given level of each such item.
+The application does not include all possible buffs (even if we're talking only about passives).
 
 4. LICENSE
 ==========

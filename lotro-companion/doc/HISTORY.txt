@@ -1,6 +1,28 @@
 LOTRO Companion
 Release Notes / History
 
+7.0 (2017-12-16)
+
+- stats contributions display:
+  Shows the contribution of 'sources' (body, gear piece, virtue, stat tome, buff) to a single stat, as a chart and as a sortable table.
+- reputation synopsis window
+- crafting synopsis window
+- edition of the guild history
+- faction history edition for all factions
+- display of curves rating->percentage from the "detailed stats" window
+- essences:
+	- added a "tier" column in the essence chooser
+	- tier fixes
+	- fixed stats of Mordor (tier 9 and 10) essences
+	- sort essences by name in the essences chooser
+- buffs:
+	- added the Loremaster trait "Tactical Damage" (red tree)
+	- added the Hunter traits "Impact Arrows" and "Critical Eye"
+- bug fixes:
+	- essences summary window: fixed bug in the computation of total essence slot count
+	- fixed some Tier 20 virtue contributions (320->368)
+	- fixed Balance of Man contributions for levels 105+
+
 6.0 (2017-09-25)
 
 - updates for Update 21 (Mordor):

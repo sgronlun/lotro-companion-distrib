@@ -3,10 +3,10 @@
 JAVA_OPTS="-Xms256M -Xmx512M -Dcom.sun.management.jmxremote -Duser.language=en"
 
 # Setup boot classpath
-CLASSPATH=lib/delta-lotro-companion-6.0.jar
+CLASSPATH=lib/delta-lotro-companion-7.0.jar
 CLASSPATH=${CLASSPATH}:lib/delta-lotro-maps-1.1.jar
-CLASSPATH=${CLASSPATH}:lib/delta-lotro-core-6.0.jar
-CLASSPATH=${CLASSPATH}:lib/delta-common-ui-1.5.jar
+CLASSPATH=${CLASSPATH}:lib/delta-lotro-core-7.0.jar
+CLASSPATH=${CLASSPATH}:lib/delta-common-ui-1.6.jar
 CLASSPATH=${CLASSPATH}:lib/delta-common-1.3.jar
 CLASSPATH=${CLASSPATH}:lib/jcommon-1.0.16.jar
 CLASSPATH=${CLASSPATH}:lib/jfreechart-1.0.13.jar
