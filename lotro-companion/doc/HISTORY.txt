@@ -6,6 +6,7 @@ Release Notes / History
 - items database update (includes items for update 22.0.1), with icons
 - essences updates
 - relics database update
+- maps update
 
 7.0 (2017-12-16)
 
