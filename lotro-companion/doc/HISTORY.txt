@@ -1,6 +1,12 @@
 LOTRO Companion
 Release Notes / History
 
+7.1 (2018-03-19)
+
+- items database update (includes items for update 22.0.1), with icons
+- essences updates
+- relics database update
+
 7.0 (2017-12-16)
 
 - stats contributions display:
