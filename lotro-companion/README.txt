@@ -41,6 +41,7 @@ Then run LOTRO Companion. You'll get back all the toons you had previously.
 my.lotro.com has been discontinued so the old features such as 'character log', 'levelling', 'crafting history' and 'warbands'
 won't be able to download the updated character data.
 It is now possible (since 6.0) to edit these data (reputation, levels, crafting).
+With version 8.0, it is possible to edit deeds status.
 But the character log and the warbands statistics will be useless for new users.
 
 3. MISC/FAQ
@@ -48,7 +49,7 @@ But the character log and the warbands statistics will be useless for new users.
 3.1 Known issues
 ----------------
 The items database is not perfect. But it becomes better at each version.
-Now it contains all items/icons for Update 21.3.1 (14/12/2017), with stats for most Mordor items.
+Now it contains all items/icons for Update 22.1.1 (25/04/2018), with stats for most Mordor items.
 The application handles a lot of scalable items. Some are not managed. In this case, it will provide only a given level of each such item.
 The application does not include all possible buffs (even if we're talking only about passives).
 

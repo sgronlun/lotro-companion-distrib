@@ -9,6 +9,8 @@ Thanks to:
 - Lotro Wiki
 	- relics definitions
 	- relic icons
+	- deeds database
+	- trait points registry
 - Dynmap LOTRO (http://dynmap.ruslotro.com/)
 - TitanBar plugin (http://www.lotrointerface.com/downloads/info692-TitanBar.html)
 - The LOTRO Client

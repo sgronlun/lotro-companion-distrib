@@ -1,6 +1,20 @@
 LOTRO Companion
 Release Notes / History
 
+8.0 (2018-05-13)
+
+- updates for Update 22:
+	- items database update (items for update 22.1.1, with icons)
+	- new map links
+	- trait point for Black Book 5.5
+	- new factions
+- deeds explorer to browse the new deeds database
+- deeds status edition (linked with reputation status edition)
+- deeds completion statistics (completion %, titles, virtues, items, traits, emotes)
+- extracted factions definitions to a dedicated XML file
+- bug fixes:
+	- item edition: allow armour>5000 and damage>1000
+
 7.1 (2018-03-19)
 
 - items database update (includes items for update 22.0.1), with icons
