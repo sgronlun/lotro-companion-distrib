@@ -1,3 +1,3 @@
-current.version.id=800
-current.version.name=8.0
+current.version.id=900
+current.version.name=9.0
 current.version.url=https://sourceforge.net/projects/lotrocompanion/

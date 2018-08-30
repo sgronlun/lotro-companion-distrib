@@ -1,6 +1,24 @@
 LOTRO Companion
 Release Notes / History
 
+9.0 (2018-08-30)
+- updates for Update 22.5: items database with icons
+- support for geographic deeds (mainly treaure caches)
+- improved maps browsing (zoom in/out, pan)
+- major improvement of the filter of the items chooser
+- storage display (for characters and for accounts), from in-game data (using plugins KikiInventory and AltInventory)
+- basic accounts management
+- minor improvements:
+	- +10 hope buff from the House of Celeborn
+	- deed status is now editable directly from the deeds status table
+- items database:
+	- added a 'Comment' attribute that indicates how to get items (mainly set for Mordor/Northern Mirkwood items)
+	- improved a lot of Mordor/Northern Mirkwood items
+
+- bug fixes:
+	- CPU/memory consumption during edition of the trait points
+	- fixed faction level 'Leaguer' -> 'Minor Leaguer'
+
 8.0 (2018-05-13)
 
 - updates for Update 22:
