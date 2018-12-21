@@ -1,18 +1,17 @@
 Thanks to:
 - LotroPlan (https://www.lotro.com/forums/showthread.php?539545-LotroCalc-calculate-stats-amp-plan-upgrades) for:
-	- inspiration
-	- lot of formulas
-	- items database with stats
+	- inspiration: yes Giseldah, you made me think a Magelo-like for LOTRO is possible 
+	- somes formulas
 - The LUA plugins of Galuhad (http://www.lotrointerface.com/list.php?skinnerid=3762)
-	- Item Treasury
-	- Item database
+	- Item Treasury: a nice tool to check items tooltips
 - Lotro Wiki
-	- relics definitions
-	- relic icons
 	- deeds database
 	- trait points registry
 - Dynmap LOTRO (http://dynmap.ruslotro.com/)
+	- maps data
 - TitanBar plugin (http://www.lotrointerface.com/downloads/info692-TitanBar.html)
+	- inspiration
 - The LOTRO Client
 	- for too many hours of play time
 - My Kin 'Ever Watchful', on Elendilmir and after on Landroval.
+- Champollion

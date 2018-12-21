@@ -1,6 +1,36 @@
 LOTRO Companion
 Release Notes / History
 
+10.0 aka X (20/12/2018)
+
+- new features
+	- recipes database consultation UI
+	- titles database consultation UI
+	- emotes database consultation UI
+	- full items database, including scaling support
+	- support for all race/class/trait trees traits that give managed stats
+
+- uses Update 23.1.8:
+	- all items, including scaling support
+	- all traits (from races, classes, trait trees)
+	- all recipes
+	- all titles
+	- all emotes
+	- all non-bridle relics
+	- rating to percentage formulas (thanks Giseldah)
+	- added new faction: Grey Mountains Expedition
+	- added the 'ironfold' crafting tier
+	- level cap 120
+	- beorning changes (heavy armour at level 15, ...)
+
+- minor changes:
+	- sort character data table by descending date
+- items edition:
+	- update gear using the current items database
+
+- bug fixes:
+	- Fixed a NPE when using geo deed status checkboxes with a closed map
+
 9.0 (2018-08-30)
 - updates for Update 22.5: items database with icons
 - support for geographic deeds (mainly treaure caches)
