@@ -1,6 +1,16 @@
 LOTRO Companion
 Release Notes / History
 
+10.1.24.1 (14/06/2019)
+- update to support the new virtues system of Update 24
+- data for Update 24.1 (items, traits, recipes, titles, emotes...)
+- maps update (from dynlotro)
+- bug fixes:
+	- bad mitigations/critical defence when using 'Guardian's Defence' on a guardian
+	- fixed 'Negative morale value with large vitality values on a Guardian'
+	- 'In Defence of Middle Earth' and 'Motivated' are now useable by all classes
+	- fixed stats for 'In Defence of Middle Earth' at level 120
+
 10.0 aka X (20/12/2018)
 
 - new features
