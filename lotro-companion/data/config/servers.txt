@@ -27,3 +27,5 @@ Maiar
 Belegaer
 Morthond
 Estel
+Anor
+Ithil
