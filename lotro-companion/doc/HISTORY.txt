@@ -1,6 +1,20 @@
 LOTRO Companion
 Release Notes / History
 
+11.0 (23/11/2019)
+- new features
+	- quests database consultation UI
+	- improved edition of items
+	- import of item instances from the game client using the LotroCompanion plugin
+	- support for Stout-axe dwarves
+	- support for 2 guilds
+
+- updates
+	- major deeds database update
+	- data update for Update 25.0.2 (items, maps, recipes...)
+	- level cap 130
+	- new crafting tier, new guild tier
+
 10.1.24.2.3 (05/09/2019)
 - data for Update 24.2.3 (items, titles)
 - added Anor and Ithil in the servers list
@@ -17,6 +31,7 @@ Release Notes / History
 	- fixed 'Negative morale value with large vitality values on a Guardian'
 	- 'In Defence of Middle Earth' and 'Motivated' are now useable by all classes
 	- fixed stats for 'In Defence of Middle Earth' at level 120
+	- fixed negative morale values when using too much vitality on guardians
 
 10.0 aka X (20/12/2018)
 

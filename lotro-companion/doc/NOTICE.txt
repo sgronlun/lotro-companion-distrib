@@ -7,8 +7,9 @@
 LOTRO Companion
 Copyright 2011-2019 Damien MORCELLET
 
-This product includes software developed by The Apache Software Foundation (http://www.apache.org/):
-- log4j (http://projects.apache.org/projects/log4j.html)
+This product includes software developed by QOS.ch (www.qos.ch):
+- logback (http://logback.qos.ch/)
+- slf4j (http://www.slf4j.org/)
 
 This product includes software developed by JFree.org (http://www.jfree.org/):
 - JCommon: http://www.jfree.org/jcommon/
