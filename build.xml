@@ -3,7 +3,9 @@
 <project name="LotRO Companion" default="default" basedir="."
   xmlns:fx="javafx:com.sun.javafx.tools.ant">
  
-  <property name="JAVA_HOME" value="C:\\Program Files\\Java\\jdk1.8.0_141"/>
+  <!--<property name="JAVA_HOME" value="C:\\Program Files\\Java\\jdk1.8.0_141"/> -->
+  <property name="JAVA_HOME" value="C:\\Users\\dm\\Downloads\\zulu8.38.0.13-ca-fx-jdk8.0.212-win_i686"/>
+
   <property name="dist.dir" value="lotro-companion"/>
   <property name="application.title" value="LotRO Companion"/>
   <property name="application.vendor" value="dmorcellet"/>
@@ -25,7 +27,8 @@
       <fx:fileset dir="${dist.dir}" includes="lib/delta-common*.jar"/>
       <fx:fileset dir="${dist.dir}" includes="lib/jcommon*.jar"/>
       <fx:fileset dir="${dist.dir}" includes="lib/jfreechart*.jar"/>
-      <fx:fileset dir="${dist.dir}" includes="lib/log4j*.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/*slf4j*.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/*logback*.jar"/>
       <fx:fileset dir="${dist.dir}" includes="lib/main.jar"/>
       <fx:fileset dir="${dist.dir}" includes="lib/*.zip"/>
     </fx:resources>
@@ -42,7 +45,8 @@
 
       <fx:platform>
         <fx:jvmuserarg name="-Xms" value="256m"/>
-        <fx:jvmuserarg name="-Xmx" value="512m"/>
+        <fx:jvmuserarg name="-Xmx" value="768m"/>
+        <fx:jvmuserarg name="-Dlogback.configurationFile" value="logback.xml"/>
       </fx:platform>
       <fx:application refId="LotroCompanion"/>
       <fx:resources refid="appRes"/>
