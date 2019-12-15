@@ -1,11 +1,11 @@
 #!/bin/bash
 
-JAVA_OPTS="-Xms256M -Xmx768M -Dcom.sun.management.jmxremote -Duser.language=en" -Dlogback.configurationFile=logback.xml
+JAVA_OPTS="-Xms256M -Xmx768M -Dcom.sun.management.jmxremote -Duser.language=en -Dlogback.configurationFile=logback.xml"
 
 P=`pwd`
 # Setup boot classpath
 CLASSPATH=${P}/lib/patches
-CLASSPATH=${P}/lib/delta-lotro-companion-11.0.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-companion-11.0.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-maps-2.0.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-core-11.0.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/delta-common-ui-1.10.jar
