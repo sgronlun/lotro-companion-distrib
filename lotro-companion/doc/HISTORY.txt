@@ -1,6 +1,31 @@
 LOTRO Companion
 Release Notes / History
 
+12.0 (26/01/2020)
+
+- new features
+	- barterers explorer
+	- vendors explorer
+	- cosmetic pets explorer
+	- mounts explorer
+	- use items sets in character stats computations
+	- item description window with cross references to sets, recipes, quests, deeds, barterers, vendors
+	- support for 'aura' slots
+	- support for initial gear for all classes
+- updates
+	- full data update for Update 25.3 (items, recipes, quests, deeds...)
+	- indicate if a recipe is auto-bestowed
+	- better support of item values
+	- added a link to the user manual in the About window
+	- added a 'Details' button on item tables to show the item description window
+	- added access to the item description window from places where item names are displayed
+	- updated icons for equipment slots
+	- added a column for item value
+	- updated the icons for high-elves
+- bug fixes
+	- minor bug fixes in the chat items decoding
+	- a bug with items whose item level is 1
+
 11.0 (23/11/2019)
 - new features
 	- quests database consultation UI

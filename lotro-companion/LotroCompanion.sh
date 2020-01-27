@@ -5,10 +5,10 @@ JAVA_OPTS="-Xms256M -Xmx768M -Dcom.sun.management.jmxremote -Duser.language=en -
 P=`pwd`
 # Setup boot classpath
 CLASSPATH=${P}/lib/patches
-CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-companion-11.0.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-companion-12.0.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-maps-2.0.jar
-CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-core-11.0.jar
-CLASSPATH=${CLASSPATH}:${P}/lib/delta-common-ui-1.10.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-core-12.0.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-common-ui-1.11.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/delta-common-1.6.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/jcommon-1.0.16.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/jfreechart-1.0.13.jar
@@ -25,6 +25,8 @@ CLASSPATH=${CLASSPATH}:${P}/lib/effectIcons.zip
 CLASSPATH=${CLASSPATH}:${P}/lib/legaciesIcons.zip
 CLASSPATH=${CLASSPATH}:${P}/lib/skillIcons.zip
 CLASSPATH=${CLASSPATH}:${P}/lib/virtueIcons.zip
+CLASSPATH=${CLASSPATH}:${P}/lib/petIcons.zip
+CLASSPATH=${CLASSPATH}:${P}/lib/mountIcons.zip
 
 # Execute the Java Virtual Machine
 exec java ${JAVA_OPTS} -classpath "${CLASSPATH}" delta.games.lotro.Main "$@"
