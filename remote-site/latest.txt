@@ -1,3 +1,3 @@
-current.version.id=1200
-current.version.name=12 Update 25.3
+current.version.id=1250
+current.version.name=12.5 Update 25.4
 current.version.url=https://sourceforge.net/projects/lotrocompanion/

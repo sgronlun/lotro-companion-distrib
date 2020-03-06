@@ -1,6 +1,15 @@
 LOTRO Companion
 Release Notes / History
 
+12.5 (06/03/2020)
+- new features
+	- added cross-reference from items to their possible containers
+	- added cross-reference for relics (deed/quest reward, containers)
+	- added disenchantment data in the item form
+- updates
+	- full data update for Update 25.4 (items, recipes, quests, deeds...)
+	- added the profile name in barter entries
+
 12.0 (26/01/2020)
 
 - new features
