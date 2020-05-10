@@ -1,6 +1,9 @@
 LOTRO Companion
 Release Notes / History
 
+12.5.26.0.2 (10/05/2020)
+- data for Update 26.0.2
+
 12.5 (06/03/2020)
 - new features
 	- added cross-reference from items to their possible containers
