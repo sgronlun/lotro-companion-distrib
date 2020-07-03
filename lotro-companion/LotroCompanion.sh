@@ -5,11 +5,17 @@ JAVA_OPTS="-Xms256M -Xmx768M -Dcom.sun.management.jmxremote -Duser.language=en -
 P=`pwd`
 # Setup boot classpath
 CLASSPATH=${P}/lib/patches
-CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-companion-12.5.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-companion-13.0.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-interceptor-1.0.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-dat-utils-4.0.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-json-1.1.1.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-maps-2.0.jar
-CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-core-12.5.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-core-13.0.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/delta-common-ui-1.11.jar
-CLASSPATH=${CLASSPATH}:${P}/lib/delta-common-1.6.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-common-1.6.1.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/pcap4j-core-1.8.2.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/pcap4j-packetfactory-static-1.8.2.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/jna-5.3.1.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/jcommon-1.0.16.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/jfreechart-1.0.13.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/log4j-over-slf4j-1.7.28.jar

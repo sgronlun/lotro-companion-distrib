@@ -24,11 +24,17 @@
       <fx:fileset dir="${dist.dir}" includes="lib/delta-lotro-companion-*.jar"/>
       <fx:fileset dir="${dist.dir}" includes="lib/delta-lotro-core-*.jar"/>
       <fx:fileset dir="${dist.dir}" includes="lib/delta-lotro-maps-*.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/delta-lotro-dat-utils-*.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/delta-lotro-interceptor-*.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/delta-json*.jar"/>
       <fx:fileset dir="${dist.dir}" includes="lib/delta-common*.jar"/>
       <fx:fileset dir="${dist.dir}" includes="lib/jcommon*.jar"/>
       <fx:fileset dir="${dist.dir}" includes="lib/jfreechart*.jar"/>
       <fx:fileset dir="${dist.dir}" includes="lib/*slf4j*.jar"/>
       <fx:fileset dir="${dist.dir}" includes="lib/*logback*.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/*pcap4j-core*.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/*pcap4j-packetfactory-static*.jar"/>
+      <fx:fileset dir="${dist.dir}" includes="lib/jna*.jar"/>
       <fx:fileset dir="${dist.dir}" includes="lib/main.jar"/>
       <fx:fileset dir="${dist.dir}" includes="lib/*.zip"/>
     </fx:resources>

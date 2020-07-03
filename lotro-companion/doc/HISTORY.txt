@@ -1,6 +1,20 @@
 LOTRO Companion
 Release Notes / History
 
+13.0 (03/07/2020)
+- new features
+	- trait tree support
+- updates
+	- full data update for Update 27.0.1 (items, recipes, quests, deeds...)
+	- reputation:
+		- support for 'undefined' reputation level for each faction
+		- support for reputation value in addition to reputation level
+		- improvement of reputation edition UIs
+	- trait points:
+		- trait points are now linked to their associated deed/quest
+- bug fixes
+	- fixed stats for the stat tomes
+
 12.5.26.0.2 (10/05/2020)
 - data for Update 26.0.2
 
