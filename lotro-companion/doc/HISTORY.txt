@@ -1,6 +1,9 @@
 LOTRO Companion
 Release Notes / History
 
+13.0.28.0 (23/10/2020)
+- data for Update 28.0
+
 13.0 (03/07/2020)
 - new features
 	- trait tree support
