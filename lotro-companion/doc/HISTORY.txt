@@ -1,6 +1,30 @@
 LOTRO Companion
 Release Notes / History
 
+14.0.28.2.1 (03/01/2021)
+- new features
+	- maps, maps, maps!
+		- world maps
+		- instance maps
+		- resources maps
+	- deeds status editition:
+		- detailed edition, using maps if applicable
+	- display the possible contents of containers (chests...)
+	- Brawler class is supported, but not enabled (it is not finished yet!)
+- updates
+	- filter on deed status completion state
+	- added support for virtue XP in quests/deeds rewards
+	- added access to items/vendors/barterers forms from the maps
+	- added a 'donate' button in the main window
+	- added support for quests 'lock types'
+	- removed 'item XP', 'relics' and 'glory/renown' from the deeds filter UI
+	- added support for more (all?) stats
+		- display special effects in items and item sets
+	- Added 'battle gauntlets' weapon type
+- bug fixes
+	- Fix computation of passives for LIs with pre-imbuement crystals.
+	- For LinearInterpolatingProgression, allow values beyond the max X value
+
 13.0.28.0 (23/10/2020)
 - data for Update 28.0
 

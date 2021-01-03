@@ -5,14 +5,14 @@ JAVA_OPTS="-Xms256M -Xmx768M -Dcom.sun.management.jmxremote -Duser.language=en -
 P=`pwd`
 # Setup boot classpath
 CLASSPATH=${P}/lib/patches
-CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-companion-13.0.jar
-CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-interceptor-1.0.jar
-CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-dat-utils-4.0.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-companion-14.0.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-interceptor-1.1.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-dat-utils-5.0.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/delta-json-1.1.1.jar
-CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-maps-2.0.jar
-CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-core-13.0.jar
-CLASSPATH=${CLASSPATH}:${P}/lib/delta-common-ui-1.11.jar
-CLASSPATH=${CLASSPATH}:${P}/lib/delta-common-1.6.1.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-maps-3.0.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-lotro-core-14.0.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-common-ui-1.12.jar
+CLASSPATH=${CLASSPATH}:${P}/lib/delta-common-1.6.2.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/pcap4j-core-1.8.2.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/pcap4j-packetfactory-static-1.8.2.jar
 CLASSPATH=${CLASSPATH}:${P}/lib/jna-5.3.1.jar
