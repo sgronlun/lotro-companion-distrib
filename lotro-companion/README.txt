@@ -12,7 +12,8 @@ Unzip the lotro-companion-N.P.zip to somewhere on your hard-drive.
 ==========================
 LOTRO Companion shall run on Windows, MacOS and Linux.
 LOTRO Companion runs with Java. So you'll need a JRE.
-In the Windows distribution, a 32bit Java 8 runtime (OpenJDK) is provided.
+In the Windows distribution, a 64bit Java 8 runtime (OpenJDK) is provided.
+The "import from client" feature will only work with a local LOTRO client for windows.
 
 1.1 Windows
 -----------
@@ -48,7 +49,7 @@ But the character log and the warbands statistics will be useless for new users.
 ===========
 3.1 Known issues
 ----------------
-The items database contains all items/icons for Update 28.2.1 (16/12/2020).
+The items database contains all items/icons for Update 29.0.1 (25/03/2021).
 The application handles scalable items: set the item level to get the appropriate stats. Some items may have bugs.
 
 4. LICENSE

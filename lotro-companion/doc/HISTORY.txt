@@ -1,6 +1,19 @@
 LOTRO Companion
 Release Notes / History
 
+15.0.29.0.1 (25/03/2021)
+- new features
+	- import character data from the local LOTRO client for Windows
+		- character description (name, class, race, level...)
+		- character gear (equipment, equipped virtues, trait tree)
+		- reputation status
+		- crafting status
+		- deeds status
+- updates
+	- improvements of the main character table: choose displayed columns
+	- use Discord instead of Facebook in the About window
+	- data for Update 29.0.1
+
 14.0.28.2.1 (03/01/2021)
 - new features
 	- maps, maps, maps!

@@ -5,8 +5,6 @@ Thanks to:
 - The LUA plugins of Galuhad (http://www.lotrointerface.com/list.php?skinnerid=3762)
 	- Item Treasury: a nice tool to check items tooltips
 - Lotro Wiki, which is still the reference for most players, including me
-- Dynmap LOTRO (http://dynmap.ruslotro.com/)
-	- maps data
 - TitanBar plugin (http://www.lotrointerface.com/downloads/info692-TitanBar.html)
 	- inspiration
 - The LOTRO Client
@@ -14,3 +12,4 @@ Thanks to:
 	- for DAT files
 - My Kin 'Ever Watchful', on Elendilmir and after on Landroval.
 - Champollion
+- a lot of other people that love LOTRO and DDO
