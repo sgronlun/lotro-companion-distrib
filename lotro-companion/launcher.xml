@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><launcherConfig mainClass="delta.games.lotro.Main" rootDir="lib">
 <classpath>
 <classpathEntry path="patches"/>
-<classpathEntry path="delta-lotro-companion-15.0.jar"/>
-<classpathEntry path="delta-lotro-interceptor-1.2.jar"/>
-<classpathEntry path="delta-lotro-memory-1.0.jar"/>
-<classpathEntry path="delta-lotro-data-extractor-1.0.jar"/>
-<classpathEntry path="delta-lotro-dat-utils-6.0.jar"/>
+<classpathEntry path="delta-lotro-companion-16.0.jar"/>
+<classpathEntry path="delta-lotro-interceptor-1.3.jar"/>
+<classpathEntry path="delta-lotro-memory-2.0.jar"/>
+<classpathEntry path="delta-lotro-data-extractor-2.0.jar"/>
+<classpathEntry path="delta-lotro-dat-utils-7.0.jar"/>
 <classpathEntry path="delta-json-1.1.1.jar"/>
-<classpathEntry path="delta-lotro-core-15.0.jar"/>
-<classpathEntry path="delta-lotro-maps-3.0.jar"/>
-<classpathEntry path="delta-common-1.6.3.jar"/>
-<classpathEntry path="delta-common-ui-1.12.jar"/>
+<classpathEntry path="delta-lotro-core-16.0.jar"/>
+<classpathEntry path="delta-lotro-maps-3.1.jar"/>
+<classpathEntry path="delta-common-1.6.4.jar"/>
+<classpathEntry path="delta-common-ui-1.13.jar"/>
 <classpathEntry path="pcap4j-core-1.8.2.jar"/>
 <classpathEntry path="pcap4j-packetfactory-static-1.8.2.jar"/>
 <classpathEntry path="jna-5.7.0.jar"/>
@@ -23,7 +23,7 @@
 <classpathEntry path="logback-core-1.2.3.jar"/>
 <classpathEntry path="effectIcons.zip"/>
 <classpathEntry path="emoteIcons.zip"/>
-<classpathEntry path="icons.zip"/>
+<classpathEntry path="itemIcons.zip"/>
 <classpathEntry path="legaciesIcons.zip"/>
 <classpathEntry path="mountIcons.zip"/>
 <classpathEntry path="petIcons.zip"/>

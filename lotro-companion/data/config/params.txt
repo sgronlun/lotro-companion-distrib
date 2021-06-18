@@ -5,14 +5,9 @@ default.server=Landroval
 max.character.level=130
 
 # Current version
-current.version.id=1500
-current.version.name=15.0 Update 29.0.1
-current.version.date=25/03/2021
-
-# URL for updates check
-update.check.url=http://dmorcellet.free.fr/lotrocompanion/latest.txt
-# Period of update checks (hours)
-update.check.period=24
+current.version.id=1600
+current.version.name=16.0 Update 30.0.1
+current.version.date=18/06/2021
 
 # Configuration of directories
 # Path of the LOTRO client data directory. Uncomment to use your own path instead of the standard one:

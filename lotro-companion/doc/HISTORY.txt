@@ -1,6 +1,35 @@
 LOTRO Companion
 Release Notes / History
 
+16.0.30.0.1 (18/06/2021)
+- new features
+	- additional data for the import feature:
+		- account and character/account link
+		- bags contents
+		- own wallet and shared wallet
+		- own vault and shared vault
+		- kinship roster
+	- kinships management
+		- import from client
+		- display (description and roster)
+	- added "choose from bags..." in the contextual menu of items in the gear editor
+	- updates manager, to download and apply software/data updates on a LotroCompanion install
+- updates
+	- data for Update 30.0.1
+	- better item icons (shows the shadow and halo effects)
+	- improvements of the main character table:
+		- persist sort
+		- choose the characters we want to show (i.e hide some characters)
+	- added an item/item instance display window on double-click on the elements of the storage tables
+	- added a "Details" button in the item instances chooser, that will show the item instance display window
+	- misc improvements in labels (stat labels, quests/deeds descriptions...)
+- bug fixes:
+	- use virtue points from gear (issue #123)
+	- item level offsets (for captain standards, and a lot of level 60 teal stuff), so that stats for those are OK now
+	- fixed issue with trait "Unwritten Destiny" of stout-axes (issue #125)
+	- broken items do not count for stats
+	- improved import robustness
+
 15.0.29.0.1 (25/03/2021)
 - new features
 	- import character data from the local LOTRO client for Windows

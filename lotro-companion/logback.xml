@@ -92,6 +92,7 @@
 	<logger name="delta.games.lotro.dat"                           level="WARN"/>
 	<logger name="delta.games.lotro.gui"                           level="WARN"/>
 	<logger name="delta.games.lotro.interceptor"                   level="WARN"/>
+	<logger name="ENVIRONMENT"                                     level="DEBUG"/>
 
 	<!-- ********************** COTS ****************** -->
 	<!-- logback himself -->
