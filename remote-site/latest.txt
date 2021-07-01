@@ -1,3 +1,3 @@
-current.version.id=1500
-current.version.name=15.0 Update 29.0.1
+current.version.id=1600
+current.version.name=16.0 Update 30.0.1
 current.version.url=https://sourceforge.net/projects/lotrocompanion/
