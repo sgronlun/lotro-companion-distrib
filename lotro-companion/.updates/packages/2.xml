@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><package id="2" name="main" version="1" versionLabel="1.0">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/16/packages/2.zip/download"/>
+<archive path="2.zip" size="2439066" crc="579401274">
+<directory name="doc">
+<file name="HISTORY.txt" size="12945" crc="1409608657"/>
+<file name="LICENSE.txt" size="11560" crc="1231013273"/>
+<directory name="licenses">
+<directory name="jcommon">
+<file name="licence-LGPL.txt" size="26934" crc="2471564426"/>
+<file name="README.txt" size="9166" crc="3348203590"/>
+</directory>
+<directory name="jfreechart">
+<file name="licence-LGPL.txt" size="26934" crc="2471564426"/>
+<file name="README.txt" size="36236" crc="3174516241"/>
+</directory>
+<directory name="logback">
+<file name="license.txt" size="449" crc="3132669768"/>
+</directory>
+<directory name="slf4j">
+<file name="license.txt" size="1173" crc="2924063616"/>
+</directory>
+</directory>
+<file name="NOTICE.txt" size="896" crc="3356817292"/>
+<file name="THANKS.txt" size="743" crc="3507565190"/>
+</directory>
+<directory name="kickstarter">
+<file name="commons-codec-1.10.jar" size="284184" crc="1487795355"/>
+<file name="commons-logging-1.2.jar" size="61829" crc="908197187"/>
+<file name="delta-common-1.6.4.jar" size="191048" crc="2501678072"/>
+<file name="delta-downloads-3.1.jar" size="26308" crc="4191592087"/>
+<file name="delta-kickstarter-1.0.jar" size="2831" crc="2761600069"/>
+<file name="delta-launcher-1.0.jar" size="13665" crc="1129008986"/>
+<file name="delta-updates-manager-1.0.jar" size="76227" crc="742032705"/>
+<file name="httpasyncclient-4.1.4.jar" size="179964" crc="3830224077"/>
+<file name="httpclient-4.5.5.jar" size="766123" crc="2863789116"/>
+<file name="httpcore-4.4.9.jar" size="325500" crc="971931856"/>
+<file name="httpcore-nio-4.4.10.jar" size="365812" crc="1365616451"/>
+<file name="log4j-1.2.14.jar" size="367444" crc="1627829320"/>
+</directory>
+<file name="launcher.xml" size="1709" crc="2228722384"/>
+<file name="logback.xml" size="5670" crc="3805313890"/>
+<file name="LotRO Companion.cfg" size="784" crc="3385500932"/>
+<file name="LotroCompanion.sh" size="1032" crc="1369137932"/>
+<file name="README.txt" size="2811" crc="3854435410"/>
+</archive>
+</package>

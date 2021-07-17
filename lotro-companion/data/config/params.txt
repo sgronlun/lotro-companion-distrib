@@ -5,9 +5,9 @@ default.server=Landroval
 max.character.level=130
 
 # Current version
-current.version.id=1600
-current.version.name=16.0 Update 30.0.1
-current.version.date=18/06/2021
+current.version.id=1650
+current.version.name=16.5 Update 30.1.1
+current.version.date=17/07/2021
 
 # Configuration of directories
 # Path of the LOTRO client data directory. Uncomment to use your own path instead of the standard one:

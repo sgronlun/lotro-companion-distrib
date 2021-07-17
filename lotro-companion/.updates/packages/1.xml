@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><package id="1" name="lib" version="1" versionLabel="1.0">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/16/packages/1.zip/download"/>
+<archive path="1.zip" size="50560519" crc="1465631066">
+<directory name="lib">
+<file name="areaIcons.zip" size="109753" crc="59640035"/>
+<file name="delta-common-1.6.4.jar" size="191048" crc="2501678072"/>
+<file name="delta-common-ui-1.13.jar" size="157799" crc="2499485624"/>
+<file name="delta-json-1.1.1.jar" size="22371" crc="2084807833"/>
+<file name="delta-lotro-companion-16.0.jar" size="3338258" crc="3767253818"/>
+<file name="delta-lotro-core-16.0.jar" size="1349667" crc="3984723752"/>
+<file name="delta-lotro-dat-utils-7.0.jar" size="870850" crc="2506011163"/>
+<file name="delta-lotro-data-extractor-2.0.jar" size="60444" crc="223552190"/>
+<file name="delta-lotro-maps-3.1.jar" size="141159" crc="532044795"/>
+<file name="delta-lotro-memory-2.0.jar" size="131148" crc="3327718744"/>
+<file name="effectIcons.zip" size="19307" crc="1160728227"/>
+<file name="emoteIcons.zip" size="611662" crc="2165139925"/>
+<file name="itemIcons.zip" size="28226707" crc="2026486146"/>
+<file name="jcommon-1.0.16.jar" size="488686" crc="2872210970"/>
+<file name="jfreechart-1.0.13.jar" size="1425742" crc="1059696229"/>
+<file name="jna-5.7.0.jar" size="1686295" crc="4287165558"/>
+<file name="jna-platform-5.7.0.jar" size="1337447" crc="850365872"/>
+<file name="legaciesIcons.zip" size="22294" crc="2148784121"/>
+<file name="log4j-over-slf4j-1.7.28.jar" size="23703" crc="306689256"/>
+<file name="logback-classic-1.2.3.jar" size="290339" crc="1678222342"/>
+<file name="logback-core-1.2.3.jar" size="471901" crc="3653013319"/>
+<file name="miscIcons.zip" size="17207" crc="1598391398"/>
+<file name="mountIcons.zip" size="746741" crc="3491552821"/>
+<directory name="patches">
+<file name="locations.properties" size="2071" crc="1657508097"/>
+</directory>
+<file name="petIcons.zip" size="859613" crc="3770303464"/>
+<file name="relicIcons.zip" size="1214488" crc="1312710793"/>
+<file name="skillIcons.zip" size="6227052" crc="492859177"/>
+<file name="slf4j-api-1.7.28.jar" size="41117" crc="2331043806"/>
+<file name="titleIcons.zip" size="38281" crc="2117408046"/>
+<file name="traitIcons.zip" size="6272965" crc="3192263241"/>
+<file name="virtueIcons.zip" size="60502" crc="2552483417"/>
+</directory>
+</archive>
+</package>

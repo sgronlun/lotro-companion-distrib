@@ -1,6 +1,28 @@
 LOTRO Companion
 Release Notes / History
 
+16.5.30.1.1 (17/07/2021)
+- new features
+	- additional data for the import feature:
+		- quests status
+		- titles status
+	- quests status UI (with maps)
+	- automatic sync of trait points using quests and deeds status
+	- titles status UI
+	- virtue XP statistics
+- updates/improvements
+	- data for Update 30.1.1
+	- improvements of deeds status window
+		- use checkboxes to select state(s)
+		- automatic filtering out of deeds using class and race
+	- deeds/quests statistics window is now a child window of the deeds/quests status window, and uses the scope defined by the deeds/quests filter
+	- character summary: added kinship and import date
+	- character chooser now uses account, name and server, instead of just the name
+	- added a layers configuration UI for maps
+- bug fixes:
+	- fixed an issue with vaults contents display
+	- display time in the character data table
+
 16.0.30.0.1 (18/06/2021)
 - new features
 	- additional data for the import feature:
