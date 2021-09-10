@@ -27,7 +27,7 @@ Run the companion.sh file to launch LOTRO Companion.
 1.3 Internet connection
 -----------------------
 This version of LOTRO Companion does not require an Internet connection.
-If you have one, it will check for available software updates (maximum once a day).
+If you have one, it will check for available software updates on startup.
 
 2. UPGRADING FROM A PREVIOUS VERSION
 ====================================
@@ -51,7 +51,7 @@ But the character log and the warbands statistics will be useless for new users.
 ----------------
 3.1.1 Items
 -----------
-The items database contains all items/icons for Update 30.1.1 (15/07/2021).
+The items database contains all items/icons for Update 30.2 (10/08/2021).
 The application handles scalable items: set the item level to get the appropriate stats. Some items may have bugs.
 
 3.1.2 Import

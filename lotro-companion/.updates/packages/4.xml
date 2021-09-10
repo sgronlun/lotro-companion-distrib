@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><package id="4" name="patch17.0" version="1" versionLabel="1.0">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/16/packages/4.zip/download"/>
+<archive path="4.zip" size="53778814" crc="4250298415">
+<directory name="data">
+<directory name="config">
+<file name="params.txt" size="732" crc="429202700"/>
+</directory>
+<directory name="lore">
+<file name="barters.xml" size="4429222" crc="1957970772"/>
+<file name="deeds.xml" size="5089761" crc="2267326967"/>
+<file name="items.xml" size="61579279" crc="3461355237"/>
+<directory name="maps">
+<directory name="indexes">
+<directory name="did">
+<file name="1879413511.xml" size="519500" crc="3836184202"/>
+<file name="1879416188.xml" size="8714" crc="768029007"/>
+<file name="1879416189.xml" size="8714" crc="3769680982"/>
+<file name="1879416190.xml" size="8714" crc="2588021476"/>
+<file name="1879416191.xml" size="2801" crc="740586325"/>
+<file name="1879416192.xml" size="2801" crc="3581477801"/>
+<file name="1879416193.xml" size="8714" crc="1839106582"/>
+</directory>
+<directory name="layers">
+<file name="0.xml" size="41287614" crc="2698201561"/>
+<file name="268435461.xml" size="770454" crc="832233843"/>
+<file name="268435481.xml" size="767178" crc="1380689199"/>
+<file name="268436565.xml" size="1693" crc="1911111743"/>
+<file name="268436566.xml" size="1018" crc="3990614972"/>
+<file name="268436613.xml" size="721" crc="3367985387"/>
+</directory>
+</directory>
+<directory name="markers">
+<file name="markers-14-0-12.xml" size="54403" crc="1447197862"/>
+<file name="markers-14-0-14.xml" size="1305111" crc="234374108"/>
+<file name="markers-14-0-15.xml" size="787749" crc="3332969454"/>
+<file name="markers-14-1-15.xml" size="145823" crc="462277638"/>
+<file name="markers-2-5-8.xml" size="1768534" crc="2335883754"/>
+</directory>
+</directory>
+<file name="meldingRecipes.xml" size="105643" crc="2326892398"/>
+<file name="mobs.xml" size="2106912" crc="3137247426"/>
+<file name="pets.xml" size="80509" crc="2960119054"/>
+<file name="skills.xml" size="1189795" crc="1418793289"/>
+<file name="titles.xml" size="441258" crc="3502051463"/>
+</directory>
+</directory>
+<directory name="doc">
+<file name="HISTORY.txt" size="14525" crc="283351347"/>
+</directory>
+<file name="launcher.xml" size="1709" crc="1944179778"/>
+<directory name="lib">
+<file name="delta-lotro-companion-17.0.jar" size="3534501" crc="920057199"/>
+<file name="delta-lotro-core-17.0.jar" size="1510357" crc="3387570968"/>
+<file name="delta-lotro-dat-utils-7.2.jar" size="872641" crc="609151296"/>
+<file name="delta-lotro-data-extractor-4.0.jar" size="67904" crc="1003758756"/>
+<file name="delta-lotro-memory-4.0.jar" size="138331" crc="1428972265"/>
+<file name="itemIcons.zip" size="28281615" crc="1142095417"/>
+<file name="mountIcons.zip" size="749760" crc="2297255808"/>
+<directory name="patches">
+<file name="locations.properties" size="2148" crc="4010701129"/>
+</directory>
+<file name="petIcons.zip" size="875418" crc="2463478619"/>
+<file name="skillIcons.zip" size="6242857" crc="591465880"/>
+<file name="traitIcons.zip" size="6285256" crc="1089959831"/>
+</directory>
+<file name="LotRO Companion.cfg" size="784" crc="1566563392"/>
+<file name="README.txt" size="2799" crc="3876607631"/>
+</archive>
+<delete path="lib/delta-lotro-companion-16.5.jar"/>
+<delete path="lib/delta-lotro-core-16.5.jar"/>
+<delete path="lib/delta-lotro-dat-utils-7.1.jar"/>
+<delete path="lib/delta-lotro-data-extractor-3.0.jar"/>
+<delete path="lib/delta-lotro-memory-3.0.jar"/>
+</package>

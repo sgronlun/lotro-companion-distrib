@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><software id="0" name="Lotro Companion" version="1650" versionLabel="16.5.30.1.1" date="1626516242708" contentsDescription="Version 16 of the famous tool for Lotro" descriptionURL="https://sourceforge.net/projects/lotrocompanion/files/16/software.xml/download">
+<?xml version="1.0" encoding="UTF-8"?><software id="0" name="Lotro Companion" version="1700" versionLabel="17.0.30.2" date="1631297738191" contentsDescription="Version 16 of the famous tool for Lotro" descriptionURL="https://sourceforge.net/projects/lotrocompanion/files/16/software.xml/download">
 <packageUsage id="0" name="data" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/0.xml/download"/>
 <packageUsage id="1" name="lib" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/1.xml/download"/>
 <packageUsage id="2" name="main" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/2.xml/download"/>
 <packageUsage id="3" name="patch16.5" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/3.xml/download"/>
+<packageUsage id="4" name="patch17.0" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/4.xml/download"/>
 </software>
