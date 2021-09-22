@@ -8,14 +8,3 @@ max.character.level=130
 current.version.id=1700
 current.version.name=17.0 Update 30.2
 current.version.date=10/09/2021
-
-# Configuration of directories
-# Path of the LOTRO client data directory. Uncomment to use your own path instead of the standard one:
-# <user.home>/Documents/The Lord of the Rings Online
-# For instance:
-#lotro.data.dir=c:/tmp
-
-# Path of the data directory of the LOTRO client plugins. Uncomment to use your own path instead of the standard one:
-# <user.home>/Documents/The Lord of the Rings Online/PluginData
-# For instance:
-#lotro.plugins.data.dir=c:/tmp/PluginData
