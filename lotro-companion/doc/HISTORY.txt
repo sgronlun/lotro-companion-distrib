@@ -1,6 +1,30 @@
 LOTRO Companion
 Release Notes / History
 
+17.5.30.3 (14/10/2021)
+- new features
+	- brawler support
+	- new legendary items support
+	- mobs explorer (draft version)
+- updates/improvements
+	- data for Update 30.3
+	- updated the user manual
+	- increased the width of the main window
+	- use new GitHub URLs in the about panel
+	- removed support for the LotroCompanion plugin
+	- removed the "Choose from game" menu: no more import of items using chat links
+	- added a filter for obsolete quests in the quests filter UI
+	- kinships:
+		- added display of server name in the kinship summary panel
+		- display vocation name and area name in the kinship members table
+		- remove columns "server" and "account" from the kinship members table
+- bug fixes:
+	- manual dates edition
+	- fixed a bug on item filters state persistence
+	- avoid duplicate markers in instance maps
+	- fixed the virtue XP label in the achievable stats, to cope with deeds being not repeatable
+	- fixed character proficiencies (armour types) for Beorning
+
 17.0.30.2 (10/09/2021)
 - new features
 	- tasks statistics
@@ -9,6 +33,7 @@ Release Notes / History
 	- recipes status
 	- items explorer
 - updates/improvements
+	- data for Update 30.2
 	- display the list of possible relics in the form of a relics container
 	- more filters in the recipes explorer
 	- revamp of the command buttons in the character window, to allow more buttons
