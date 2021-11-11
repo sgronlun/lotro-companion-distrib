@@ -2,9 +2,9 @@
 default.server=Landroval
 
 # Max character level
-max.character.level=130
+max.character.level=140
 
 # Current version
-current.version.id=1750
-current.version.name=17.5 Update 30.3
-current.version.date=14/10/2021
+current.version.id=1760
+current.version.name=17.6 Update 31
+current.version.date=11/11/2021

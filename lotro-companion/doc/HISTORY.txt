@@ -1,6 +1,61 @@
 LOTRO Companion
 Release Notes / History
 
+17.6.31 (11/11/2021)
+General:
+	- data update for Update 31 (Gundabad)
+		- level cap 140
+		- new crafting tier
+		- maps update
+		- new faction
+		- new trait points
+		- new quests, deeds, recipes, ...
+Stats computations:
+	- handle min/max character level constraints: stats do not count if character level does not match. On items, sets and traceries.
+	- use traceries sets
+Items sets:
+	- handle "use average item level for item sets"
+		- stats computation
+		- set form UI
+	- handle max character level
+	- form UI:
+		- added max level display, if any
+New legendary items:
+	- handle reforge
+	- import name from the client
+Enhancement runes:
+	- improved form UI: added item level limits
+Traceries:
+	- improved form UI: added enhancement limit
+	Traceries sets:
+		- used in stats computations
+		- handle "use average item level for sets"
+		- dedicated form UI
+		- handle max character level
+	Traceries filter:
+		- added a stat filter
+		- filter setup is saved by character/tracery type
+	Traceries chooser:
+		- added a "Details" button on each tracery row
+		- try to select the current tracery in the tracery chooser
+		- save the columns of the tracery chooser in the preferences (per character and tracery type)
+		- added columns 'quality' and 'stats' on the tracery chooser table
+		- sort traceries by name
+	Traceries editor:
+		- add the tracery name or the expected socket type
+		- use color to indicate tracery qualities
+		- enforce unicity of traceries
+		- added buttons to minimize or maximize the item levels of traceries
+		- handle LI item level and character level as constraints for traceries edition
+	Traceries editor and display:
+		- use red color for traceries that have a bad level compared to the parent character level
+		- added access to tracery form from the tracery icon
+		- display only the unlocked tracery sockets
+		- added a scroll pane
+Misc UI Improvements:
+	- Increased the default width of the trait points edition window
+	- added tiers 13 and 14 in the essences filter
+
 17.5.30.3 (14/10/2021)
 - new features
 	- brawler support
