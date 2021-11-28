@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><launcherConfig mainClass="delta.games.lotro.Main" rootDir="lib">
 <classpath>
 <classpathEntry path="patches"/>
-<classpathEntry path="delta-lotro-companion-17.6.jar"/>
+<classpathEntry path="delta-lotro-companion-17.8.jar"/>
 <classpathEntry path="delta-lotro-interceptor-1.6.jar"/>
-<classpathEntry path="delta-lotro-memory-5.1.jar"/>
-<classpathEntry path="delta-lotro-data-extractor-5.1.jar"/>
+<classpathEntry path="delta-lotro-memory-5.2.jar"/>
+<classpathEntry path="delta-lotro-data-extractor-5.2.jar"/>
 <classpathEntry path="delta-lotro-dat-utils-7.2.jar"/>
 <classpathEntry path="delta-json-1.1.1.jar"/>
-<classpathEntry path="delta-lotro-core-17.6.jar"/>
+<classpathEntry path="delta-lotro-core-17.8.jar"/>
 <classpathEntry path="delta-lotro-maps-3.3.jar"/>
 <classpathEntry path="delta-common-1.6.6.jar"/>
 <classpathEntry path="delta-common-ui-1.16.jar"/>
@@ -21,6 +21,7 @@
 <classpathEntry path="slf4j-api-1.7.28.jar"/>
 <classpathEntry path="logback-classic-1.2.3.jar"/>
 <classpathEntry path="logback-core-1.2.3.jar"/>
+<classpathEntry path="allegianceIcons.zip"/>
 <classpathEntry path="effectIcons.zip"/>
 <classpathEntry path="emoteIcons.zip"/>
 <classpathEntry path="itemIcons.zip"/>
