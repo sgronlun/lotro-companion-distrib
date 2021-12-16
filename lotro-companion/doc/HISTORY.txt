@@ -1,6 +1,22 @@
 LOTRO Companion
 Release Notes / History
 
+18.0.31.1.1 (15/12/2021)
+- new features
+	- detailed storage display:
+		- wallet
+		- own/shared vaults
+		- bags
+		- carry-alls
+- updates/improvements
+	- data for Update 31.1.1
+	- progress column in the deeds status table
+	- legendary items edition (reloaded): added indication of the next available reforge
+
+- bug fixes:
+	- fixed an error when writing an allegiance status with no claimed reward
+	- fixed a bug in allegiance claimed tiers decoding
+
 17.8.31.0.2 (28/11/2021)
 - new features
 	- allegiances support (import, display)
