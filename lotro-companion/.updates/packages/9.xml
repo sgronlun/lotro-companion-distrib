@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><package id="9" name="patch18.2" version="1" versionLabel="1.0">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/16/packages/9.zip/download"/>
+<archive path="9.zip" size="26097140" crc="1783848953">
+<directory name="data">
+<directory name="config">
+<file name="params.txt" size="255" crc="2728680058"/>
+</directory>
+<directory name="lore">
+<file name="barters.xml" size="6294709" crc="2401002153"/>
+<file name="deeds.xml" size="5409185" crc="1720635182"/>
+<file name="dungeons.xml" size="164464" crc="2151354994"/>
+<directory name="enums">
+<file name="AgentClass.xml" size="8513" crc="2512742999"/>
+<file name="Alignment.xml" size="255" crc="2398961314"/>
+<file name="SocketType.xml" size="838" crc="1729675091"/>
+<file name="Species.xml" size="4217" crc="3491101943"/>
+<file name="SubSpecies.xml" size="31344" crc="489034060"/>
+<file name="TraitNature.xml" size="1077" crc="544522305"/>
+<file name="TravelLink.xml" size="1105" crc="1671334292"/>
+</directory>
+<file name="geoAreas.xml" size="50052" crc="557912696"/>
+<file name="items.xml" size="64532121" crc="3554037628"/>
+<directory name="maps">
+<directory name="indexes">
+<directory name="did">
+<file name="1879410817.xml" size="192656" crc="3990552690"/>
+</directory>
+<directory name="layers">
+<file name="0.xml" size="42485871" crc="4032921611"/>
+<file name="268436549.xml" size="1165" crc="3782847460"/>
+<file name="268436645.xml" size="151" crc="2451351694"/>
+</directory>
+</directory>
+<directory name="markers">
+<file name="markers-2-2-6.xml" size="1940819" crc="1482732962"/>
+</directory>
+</directory>
+<file name="mounts.xml" size="159378" crc="2112073002"/>
+<file name="quests.xml" size="39171149" crc="2277508363"/>
+<file name="races.xml" size="10060" crc="211851058"/>
+<file name="skills.xml" size="1158573" crc="3568449274"/>
+</directory>
+</directory>
+<directory name="doc">
+<file name="HISTORY.txt" size="19275" crc="2911308743"/>
+<file name="NOTICE.txt" size="896" crc="4154217864"/>
+</directory>
+<directory name="kickstarter">
+<file name="log4j-1.2.17.jar" size="489883" crc="732536311"/>
+</directory>
+<file name="launcher.xml" size="1797" crc="2843820828"/>
+<directory name="lib">
+<file name="delta-common-1.6.7.jar" size="195372" crc="4085754509"/>
+<file name="delta-common-ui-1.17.jar" size="171912" crc="43799488"/>
+<file name="delta-lotro-companion-18.2.jar" size="3781837" crc="3189600675"/>
+<file name="delta-lotro-core-18.2.jar" size="1737047" crc="2231371884"/>
+<file name="delta-lotro-dat-utils-7.3.jar" size="875487" crc="2846633877"/>
+<file name="delta-lotro-data-extractor-5.4.jar" size="75486" crc="2308483720"/>
+<file name="delta-lotro-maps-3.4.jar" size="152444" crc="4231064660"/>
+<file name="delta-lotro-memory-5.4.jar" size="145520" crc="3571539935"/>
+<file name="log4j-over-slf4j-1.7.33.jar" size="23806" crc="2684614303"/>
+<file name="logback-classic-1.2.10.jar" size="233809" crc="2155520698"/>
+<file name="logback-core-1.2.10.jar" size="454203" crc="2455319562"/>
+<directory name="patches">
+<file name="locations.properties" size="2516" crc="2761197713"/>
+</directory>
+<file name="slf4j-api-1.7.33.jar" size="41473" crc="3543561366"/>
+</directory>
+<file name="LotRO Companion.cfg" size="784" crc="3359720812"/>
+<file name="LotroCompanion.sh" size="1032" crc="2725859553"/>
+<file name="README.txt" size="2801" crc="98394454"/>
+</archive>
+<delete path="lib/delta-common-1.6.6.jar"/>
+<delete path="lib/delta-common-ui-1.16.jar"/>
+<delete path="lib/delta-lotro-companion-18.0.jar"/>
+<delete path="lib/delta-lotro-core-18.0.jar"/>
+<delete path="lib/delta-lotro-dat-utils-7.2.jar"/>
+<delete path="lib/delta-lotro-data-extractor-5.3.jar"/>
+<delete path="lib/delta-lotro-maps-3.3.jar"/>
+<delete path="lib/delta-lotro-memory-5.3.jar"/>
+<delete path="lib/log4j-over-slf4j-1.7.28.jar"/>
+<delete path="lib/logback-classic-1.2.3.jar"/>
+<delete path="lib/logback-core-1.2.3.jar"/>
+<delete path="lib/slf4j-api-1.7.28.jar"/>
+</package>

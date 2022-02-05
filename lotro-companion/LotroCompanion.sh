@@ -15,7 +15,7 @@ CLASSPATH=${CLASSPATH}:${P}/kickstarter/httpcore-4.4.9.jar
 CLASSPATH=${CLASSPATH}:${P}/kickstarter/httpcore-nio-4.4.10.jar
 CLASSPATH=${CLASSPATH}:${P}/kickstarter/commons-codec-1.10.jar
 CLASSPATH=${CLASSPATH}:${P}/kickstarter/commons-logging-1.2.jar
-CLASSPATH=${CLASSPATH}:${P}/kickstarter/log4j-1.2.14.jar
+CLASSPATH=${CLASSPATH}:${P}/kickstarter/log4j-1.2.17.jar
 
 # Execute the Java Virtual Machine
 exec java ${JAVA_OPTS} -classpath "${CLASSPATH}" delta.kickstarter.Kickstarter "$@"
