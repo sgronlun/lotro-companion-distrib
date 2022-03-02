@@ -16,4 +16,4 @@ This product includes software developed by JFree.org (http://www.jfree.org/):
 - JFreeChart: http://www.jfree.org/jfreechart/
 
 The rest of the software (delta-*.jar) has been developed by Damien MORCELLET.
-It is available on github: https://github.com/dmorcellet
+It is available on github: https://github.com/dmorcellet or https://github.com/LotroCompanion
