@@ -3,8 +3,12 @@ default.server=Landroval
 
 # Max character level
 max.character.level=140
+# Max virtue rank
+max.virtue.rank=80
+# Max item level for a legendary item
+max.li.itemLevel=475
 
 # Current version
-current.version.id=1850
-current.version.name=18.5 Update 32
-current.version.date=18/02/2022
+current.version.id=1900
+current.version.name=19.0 Update 32.0.6
+current.version.date=02/04/2022

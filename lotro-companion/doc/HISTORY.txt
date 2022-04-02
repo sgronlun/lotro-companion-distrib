@@ -1,9 +1,24 @@
 LOTRO Companion
 Release Notes / History
 
+19.0.32.0.6 (02/04/2022)
+- new features
+	- track and display the history of currencies (gold, xp, motes, ancient scripts, misc tokens...)
+	- aggregated maps of 'TODO' locations for deeds
+	- localization for numbers and dates
+- updates/improvements
+	- data for Update 32.0.6
+	- added support for some more buffs:
+		- minstrel anthems
+		- dwarf endurance
+		- duty bound
+	- better display of quest/deed requirements for quests and deeds
+- bug fixes:
+	- fixed min/max damage for weapons in items.xml
+
 18.5.32.0 (18/02/2022)
 - new features
-	- sorage UI:
+	- storage UI:
 		- statistics (value, item XP and reputation)
 		- "same cosmetics" finder
 	- added a virtue window accessible from the virtues edition window
