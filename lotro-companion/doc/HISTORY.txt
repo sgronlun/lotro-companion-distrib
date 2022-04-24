@@ -1,6 +1,20 @@
 LOTRO Companion
 Release Notes / History
 
+19.2.33.0 (24/04/2022)
+- new features
+	- import and display of the friends list (per account/server)
+	- import and display of the wardrobe (per account/server)
+	- import and display of the outfits (per character)
+- updates/improvements
+	- data for Update 33.0
+	- added column "Area" and "Dungeon" in the main character table
+	- added virtue XP in storage statistics
+- bug fixes:
+	- fixed a bug in the display of quests/deeds requirements
+	- fixed the "size" attribute of quests
+(see also: https://github.com/LotroCompanion/lotro-companion/milestone/13?closed=1)
+
 19.0.32.0.6 (02/04/2022)
 - new features
 	- track and display the history of currencies (gold, xp, motes, ancient scripts, misc tokens...)

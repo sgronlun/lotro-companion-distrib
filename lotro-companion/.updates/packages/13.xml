@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><package id="13" name="patch19.2" version="1" versionLabel="1.0">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/16/packages/13.zip/download"/>
+<archive path="13.zip" size="73845302" crc="3420891722">
+<directory name="data">
+<directory name="config">
+<file name="params.txt" size="353" crc="3369434450"/>
+</directory>
+<directory name="lore">
+<file name="barters.xml" size="6426203" crc="4203312260"/>
+<file name="colors.xml" size="2524" crc="3954124134"/>
+<file name="consumables.xml" size="343285" crc="1056672812"/>
+<file name="containers.xml" size="468122" crc="3547515015"/>
+<file name="cosmetics.xml" size="947683" crc="3880976360"/>
+<file name="deeds.xml" size="5498249" crc="523569716"/>
+<file name="disenchantments.xml" size="3168475" crc="2242072965"/>
+<file name="dungeons.xml" size="166647" crc="1354375444"/>
+<file name="factions.xml" size="108739" crc="3346394558"/>
+<file name="geoAreas.xml" size="51779" crc="3169449014"/>
+<file name="items.xml" size="65579296" crc="3747597608"/>
+<file name="landblocks.xml" size="9792276" crc="1500735478"/>
+<file name="loots.xml" size="13227943" crc="1118829905"/>
+<directory name="maps">
+<directory name="indexes">
+<directory name="did">
+<file name="1879048193.xml" size="1374" crc="2724171861"/>
+<file name="1879063919.xml" size="162820" crc="1026547147"/>
+<file name="1879064016.xml" size="82780" crc="1808135413"/>
+<file name="1879064021.xml" size="40088" crc="3175384744"/>
+<file name="1879077402.xml" size="29194" crc="2623073503"/>
+<file name="1879077553.xml" size="29194" crc="1627857629"/>
+<file name="1879079511.xml" size="104724" crc="2673959830"/>
+<file name="1879079515.xml" size="19652" crc="810347700"/>
+<file name="1879079516.xml" size="104802" crc="1063556707"/>
+<file name="1879079517.xml" size="104802" crc="1341042154"/>
+<file name="1879080155.xml" size="71522" crc="153180819"/>
+<file name="1879080159.xml" size="23214" crc="530707943"/>
+<file name="1879080160.xml" size="73784" crc="3668843731"/>
+<file name="1879080458.xml" size="99186" crc="2858185363"/>
+<file name="1879080462.xml" size="22122" crc="451048310"/>
+<file name="1879080463.xml" size="78672" crc="3795304262"/>
+<file name="1879080464.xml" size="117724" crc="2274311394"/>
+<file name="1879080465.xml" size="112654" crc="205918893"/>
+<file name="1879087927.xml" size="107506" crc="984355252"/>
+<file name="1879087929.xml" size="69546" crc="2631961379"/>
+<file name="1879087931.xml" size="97574" crc="47360726"/>
+<file name="1879087933.xml" size="107506" crc="3020921120"/>
+<file name="1879087934.xml" size="28934" crc="3852393885"/>
+<file name="1879087936.xml" size="71808" crc="1751016632"/>
+<file name="1879087939.xml" size="71808" crc="3691820742"/>
+<file name="1879087940.xml" size="28934" crc="1158878813"/>
+<file name="1879124366.xml" size="8030" crc="1497797368"/>
+<file name="1879338084.xml" size="25996" crc="4197944855"/>
+<file name="1879338150.xml" size="490124" crc="3059528781"/>
+<file name="1879339005.xml" size="334" crc="678763066"/>
+<file name="1879341996.xml" size="997481" crc="3880656093"/>
+<file name="1879367820.xml" size="152" crc="242629161"/>
+<file name="1879367821.xml" size="360" crc="1734743557"/>
+<file name="1879389182.xml" size="144848" crc="2522021949"/>
+<file name="1879399333.xml" size="16402" crc="3868116248"/>
+<file name="1879401203.xml" size="490" crc="2109109304"/>
+<file name="1879415444.xml" size="3428" crc="2340672088"/>
+<file name="1879415453.xml" size="152" crc="1203850851"/>
+<file name="1879439521.xml" size="348136" crc="3821681545"/>
+<file name="1879442885.xml" size="1585606" crc="949549670"/>
+<file name="1879443659.xml" size="3688" crc="3617972295"/>
+<file name="1879443714.xml" size="1348" crc="1563523048"/>
+<file name="1879446544.xml" size="1036" crc="1652956611"/>
+<file name="1879446545.xml" size="178" crc="2557395642"/>
+<file name="1879446546.xml" size="204" crc="417622220"/>
+<file name="1879446547.xml" size="360" crc="3551961936"/>
+<file name="1879446548.xml" size="282" crc="2374410388"/>
+<file name="1879446549.xml" size="490" crc="3807163507"/>
+<file name="1879446550.xml" size="386" crc="3566503780"/>
+<file name="1879446706.xml" size="386" crc="1112053372"/>
+<file name="1879446707.xml" size="152" crc="1448334660"/>
+<file name="1879446708.xml" size="178" crc="1257874128"/>
+</directory>
+<directory name="layers">
+<file name="0.xml" size="44435644" crc="13849094"/>
+<file name="2.xml" size="46709" crc="1533834074"/>
+<file name="268435461.xml" size="819854" crc="972347019"/>
+<file name="268435473.xml" size="137785" crc="3011899142"/>
+<file name="268435481.xml" size="816552" crc="288280761"/>
+<file name="268436286.xml" size="359" crc="3951303374"/>
+<file name="268436646.xml" size="9953" crc="845236090"/>
+<file name="268436653.xml" size="723" crc="2815689227"/>
+<file name="268436654.xml" size="593" crc="4038049921"/>
+<file name="268436655.xml" size="281" crc="4070144816"/>
+<file name="268436656.xml" size="619" crc="2542509380"/>
+<file name="268436657.xml" size="229" crc="2819952965"/>
+</directory>
+</directory>
+<file name="links.xml" size="326874" crc="3685009372"/>
+<directory name="maps">
+<file name="maps.xml" size="327523" crc="9930861"/>
+</directory>
+<directory name="markers">
+<file name="markers-1-0-1.xml" size="31964" crc="2214861950"/>
+<file name="markers-1-10-2.xml" size="740391" crc="3289007459"/>
+<file name="markers-1-10-5.xml" size="3665930" crc="2514294805"/>
+<file name="markers-1-10-6.xml" size="4312405" crc="1870727773"/>
+<file name="markers-1-15-0.xml" size="37351" crc="2790680017"/>
+<file name="markers-1-15-10.xml" size="91598" crc="4188895073"/>
+<file name="markers-1-15-5.xml" size="48346" crc="3440624125"/>
+<file name="markers-1-15-7.xml" size="111382" crc="3413571750"/>
+<file name="markers-1-3-8.xml" size="1290063" crc="2698108748"/>
+<file name="markers-1-4-7.xml" size="3333561" crc="1436485926"/>
+<file name="markers-1-4-8.xml" size="1502955" crc="2972979066"/>
+<file name="markers-1-5-7.xml" size="6362598" crc="1979508045"/>
+<file name="markers-1-5-8.xml" size="1932921" crc="3644472368"/>
+<file name="markers-1-6-8.xml" size="5202510" crc="2095472352"/>
+<file name="markers-1-9-6.xml" size="2207627" crc="484688147"/>
+<file name="markers-2-14-14.xml" size="3715" crc="1321630000"/>
+<file name="markers-2-15-1.xml" size="37420" crc="768171526"/>
+<file name="markers-2-15-13.xml" size="603810" crc="747042098"/>
+<file name="markers-2-2-5.xml" size="2631102" crc="2779310177"/>
+<file name="markers-2-2-6.xml" size="1941155" crc="2053258419"/>
+<file name="markers-2-6-10.xml" size="1305957" crc="2005116436"/>
+<file name="markers-2-6-13.xml" size="3142695" crc="2158995527"/>
+<file name="markers-2-6-4.xml" size="2426497" crc="1316554287"/>
+<file name="markers-2-6-6.xml" size="4005114" crc="3411626910"/>
+<file name="markers-3-6-2.xml" size="216910" crc="847728547"/>
+<file name="markers-4-11-4.xml" size="2861241" crc="4206342497"/>
+<file name="markers-4-12-5.xml" size="4738877" crc="3616187829"/>
+</directory>
+</directory>
+<file name="mobs.xml" size="1926415" crc="1222275030"/>
+<file name="mounts.xml" size="160633" crc="1691774037"/>
+<file name="paperItems.xml" size="78635" crc="1581044926"/>
+<file name="parchmentMaps.xml" size="38554" crc="1677839672"/>
+<file name="pets.xml" size="83533" crc="2316814205"/>
+<file name="privateEncounters.xml" size="685164" crc="1294243187"/>
+<file name="progressions.xml" size="5657478" crc="4099014097"/>
+<file name="quests.xml" size="40641284" crc="3473172073"/>
+<file name="recipes.xml" size="11932014" crc="2682209116"/>
+<file name="resources.xml" size="24499" crc="2560809137"/>
+<file name="sets.xml" size="1202574" crc="3588980012"/>
+<file name="skills.xml" size="1175107" crc="2534348908"/>
+<file name="stats.xml" size="488514" crc="174539897"/>
+<file name="tasks.xml" size="56390" crc="3104699621"/>
+<file name="titles.xml" size="462766" crc="2546953510"/>
+<file name="traceries.xml" size="1564056" crc="89621171"/>
+<file name="traits.xml" size="955455" crc="1760825248"/>
+<file name="vendors.xml" size="999619" crc="2204545020"/>
+</directory>
+</directory>
+<directory name="doc">
+<file name="HISTORY.txt" size="20942" crc="181833632"/>
+</directory>
+<file name="launcher.xml" size="1801" crc="3893154092"/>
+<directory name="lib">
+<file name="areaIcons.zip" size="112244" crc="1610322767"/>
+<file name="delta-lotro-companion-19.2.jar" size="3927988" crc="351111277"/>
+<file name="delta-lotro-core-19.2.jar" size="1827516" crc="3515117302"/>
+<file name="delta-lotro-dat-utils-7.4.1.jar" size="876011" crc="3393609616"/>
+<file name="delta-lotro-data-extractor-5.6.jar" size="82324" crc="261267463"/>
+<file name="delta-lotro-memory-5.7.jar" size="153884" crc="3469223791"/>
+<file name="itemIcons.zip" size="30368253" crc="1205511614"/>
+<file name="mountIcons.zip" size="781661" crc="2786316917"/>
+<file name="petIcons.zip" size="953731" crc="2960417315"/>
+<file name="skillIcons.zip" size="6528819" crc="2291274252"/>
+<file name="traitIcons.zip" size="6536034" crc="1158911932"/>
+</directory>
+<file name="LotRO Companion.cfg" size="784" crc="1557412904"/>
+<file name="README.txt" size="2799" crc="3516340362"/>
+</archive>
+<delete path="lib/delta-lotro-companion-19.0.jar"/>
+<delete path="lib/delta-lotro-core-19.0.jar"/>
+<delete path="lib/delta-lotro-dat-utils-7.4.jar"/>
+<delete path="lib/delta-lotro-data-extractor-5.5.1.jar"/>
+<delete path="lib/delta-lotro-memory-5.6.jar"/>
+</package>
