@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><package id="14" name="patch19.2.33.01" version="1" versionLabel="1.0">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/16/packages/14.zip/download"/>
+<archive path="14.zip" size="147980" crc="3473826455">
+<directory name="doc">
+<file name="HISTORY.txt" size="20983" crc="2259397930"/>
+</directory>
+<directory name="lib">
+<file name="delta-lotro-memory-5.7.jar" size="153884" crc="3682280286"/>
+</directory>
+</archive>
+</package>
