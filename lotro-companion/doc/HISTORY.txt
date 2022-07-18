@@ -1,6 +1,42 @@
 LOTRO Companion
 Release Notes / History
 
+20.0.33.0.5 (18/07/2022)
+- new features
+	- import and display of the cosmetic pets status (including collections)
+	- import and display of the mounts status (including collections)
+	- import and display of the emotes status
+	- import and display of the rewards tracks status (per account/server)
+	- added "context" on quests and deeds, to indicate "context" requirements:
+		- legendary server,
+		- fastival/event active,
+		- instance tier difficulty,
+		- ...
+	- quests/deeds status: added a "blacklist" to hide/ignore elements manually
+	- dedicated navigable form for races descriptions, with cross-references
+	- dedicated navigable form for emotes descriptions, with cross-references
+	- support for account-wide title rewards
+- updates/improvements
+	- removed the obsolete "Virtues" tab in the quests/deeds rewards statistics
+	- added column "Vocation" in the main character table
+	- misc improvements in the display of titles (dedicated form, link from rewards panels, ...)
+	- quests/deeds status statistics:
+		- honor the state filter
+		- added a "total" tab in addition to the existing "Acquired" and "To Get" tabs
+	- 'hidden' filter on deeds
+	- no more hard-coded nationalities/regions
+	- added the "In game time" currency to have an history of the "in game time" (/played)
+	- added "contents pack"/"expansion" information on quests/deeds
+	- use a "hand" icon on hyperlinked icons
+	- quests/deeds geographic status: do not force filter on state
+	- added "tall" attribute on mounts, to indicates if they are for tall races or short ones
+- bug fixes:
+	- Bad Morale computation with a +5% Morale tracery
+	- big revamp of the internals of stats computation: stats shall be more precise
+	- better cleanup of NPC/item names: avoid trailing "["
+	- removed "Hotspot" markers on maps
+(see also: https://github.com/LotroCompanion/lotro-companion/milestone/14)
+
 19.2.33.0.5 (25/05/2022)
 - updates
 	- data for Update 33.0.5
