@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><package id="15" name="patch19.2.33.05" version="1" versionLabel="1.0">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/16/packages/15.zip/download"/>
+<archive path="15.zip" size="57058028" crc="3776004569">
+<directory name="data">
+<directory name="config">
+<file name="params.txt" size="355" crc="2859384999"/>
+</directory>
+<directory name="lore">
+<file name="barters.xml" size="6429384" crc="1056668250"/>
+<file name="billingGroups.xml" size="17051" crc="706023985"/>
+<file name="classes.xml" size="110988" crc="433363155"/>
+<file name="containers.xml" size="468122" crc="345706817"/>
+<file name="deeds.xml" size="5522793" crc="1029357225"/>
+<file name="disenchantments.xml" size="3169409" crc="52435178"/>
+<directory name="enums">
+<file name="BillingGroup.xml" size="28629" crc="4090237241"/>
+</directory>
+<file name="items.xml" size="65584364" crc="3720210413"/>
+<file name="landblocks.xml" size="9792365" crc="357968978"/>
+<file name="loots.xml" size="13089807" crc="3372087148"/>
+<directory name="maps">
+<directory name="indexes">
+<directory name="did">
+<file name="1879079511.xml" size="104724" crc="1687454312"/>
+<file name="1879079516.xml" size="104802" crc="1136675393"/>
+<file name="1879079517.xml" size="104802" crc="2519617957"/>
+<file name="1879087927.xml" size="107506" crc="2555324036"/>
+<file name="1879087931.xml" size="97574" crc="2444032151"/>
+<file name="1879087933.xml" size="107506" crc="140824869"/>
+<file name="1879421176.xml" size="568" crc="883657494"/>
+<file name="1879421177.xml" size="2258" crc="3046647560"/>
+<file name="1879421178.xml" size="204" crc="4083712344"/>
+<file name="1879421179.xml" size="906" crc="3434579710"/>
+<file name="1879421180.xml" size="932" crc="79176111"/>
+<file name="1879421181.xml" size="542" crc="339333455"/>
+<file name="1879421182.xml" size="776" crc="1887666576"/>
+<file name="1879442093.xml" size="3298" crc="4035579169"/>
+<file name="1879442885.xml" size="1585528" crc="2754430455"/>
+</directory>
+<directory name="layers">
+<file name="0.xml" size="44435566" crc="3294123954"/>
+<file name="268435461.xml" size="819854" crc="2596849978"/>
+<file name="268435481.xml" size="816552" crc="2349733823"/>
+<file name="268436620.xml" size="5429" crc="2294479863"/>
+<file name="268436640.xml" size="3271" crc="2978591679"/>
+</directory>
+</directory>
+<file name="links.xml" size="326876" crc="3947026011"/>
+<directory name="markers">
+<file name="markers-1-4-7.xml" size="3332971" crc="1993906283"/>
+<file name="markers-1-5-7.xml" size="6362742" crc="4196765512"/>
+<file name="markers-1-9-4.xml" size="1130262" crc="2642103659"/>
+<file name="markers-2-14-15.xml" size="51974" crc="3499434941"/>
+<file name="markers-2-15-13.xml" size="603950" crc="3389567684"/>
+<file name="markers-2-5-8.xml" size="1709611" crc="4242135045"/>
+</directory>
+</directory>
+<file name="mobs.xml" size="1926540" crc="3744191617"/>
+<file name="mounts.xml" size="160691" crc="1793531539"/>
+<file name="pets.xml" size="84269" crc="4038191828"/>
+<file name="privateEncounters.xml" size="686046" crc="2479309214"/>
+<file name="progressions.xml" size="5691018" crc="2287489612"/>
+<file name="quests.xml" size="40969273" crc="2491101814"/>
+<file name="skills.xml" size="1174865" crc="384356765"/>
+<file name="statContribs.xml" size="30000" crc="3292987039"/>
+<file name="stats.xml" size="488728" crc="842159534"/>
+<file name="titles.xml" size="462768" crc="628955238"/>
+<file name="traits.xml" size="957516" crc="3220218309"/>
+<file name="worldEvents.xml" size="44024" crc="152663165"/>
+</directory>
+</directory>
+<directory name="doc">
+<file name="HISTORY.txt" size="21200" crc="179839298"/>
+</directory>
+<directory name="lib">
+<file name="delta-lotro-memory-5.7.jar" size="153884" crc="437929898"/>
+<file name="itemIcons.zip" size="30373571" crc="289346649"/>
+<file name="petIcons.zip" size="960119" crc="1412725851"/>
+<file name="skillIcons.zip" size="6532013" crc="2320813905"/>
+</directory>
+<file name="README.txt" size="2801" crc="3843771646"/>
+</archive>
+</package>

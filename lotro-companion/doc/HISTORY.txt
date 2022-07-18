@@ -1,6 +1,15 @@
 LOTRO Companion
 Release Notes / History
 
+19.2.33.0.5 (25/05/2022)
+- updates
+	- data for Update 33.0.5
+	- fixed pointers for the "import from client" feature
+
+19.2.33.0.1 (29/04/2022)
+- updates
+	- fixed pointers for the "import from client" feature
+
 19.2.33.0 (24/04/2022)
 - new features
 	- import and display of the friends list (per account/server)
