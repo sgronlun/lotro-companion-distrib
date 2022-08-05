@@ -1,6 +1,14 @@
 LOTRO Companion
 Release Notes / History
 
+20.1.33.1.1 (05/08/2022)
+- updates/improvements
+	- data for Update 33.1.1
+	- added buffs "Veteran Determination" and "Veteran Fortitude"
+- bug fixes:
+	- fix sort for stat columns
+	- added +3 parry and +1 evade on base stats
+
 20.0.33.0.5 (18/07/2022)
 - new features
 	- import and display of the cosmetic pets status (including collections)

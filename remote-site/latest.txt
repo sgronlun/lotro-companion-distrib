@@ -1,3 +1,3 @@
-current.version.id=2000
-current.version.name=20.0 Update 33.0.5
+current.version.id=2001
+current.version.name=20.1 Update 33.1.1
 current.version.url=https://sourceforge.net/projects/lotrocompanion/
