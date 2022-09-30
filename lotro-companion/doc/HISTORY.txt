@@ -1,6 +1,27 @@
 LOTRO Companion
 Release Notes / History
 
+20.2.33.2.1 (30/09/2022)
+- new features
+	- added a CSV export for the item scaling table
+	- emotes synopsis
+- updates/improvements
+	- data for Update 33.2.1
+		- Minstrel changes
+		- new class/race combinations
+		- classic data updates
+	- improved the layout of the item display window
+	- added tooltips on table headers
+	- currencies window: retain previous size/location
+	- added a filter in the wallet display window
+	- added a "max all slotted" buttons in the virtues edition window
+	- updated game constants:
+		- max virtue tier: 82
+		- max LI item level: 480
+- bug fixes:
+	- added some missing mounts
+(see also: https://github.com/LotroCompanion/lotro-companion/milestone/15)
+
 20.1.33.1.1 (05/08/2022)
 - updates/improvements
 	- data for Update 33.1.1
