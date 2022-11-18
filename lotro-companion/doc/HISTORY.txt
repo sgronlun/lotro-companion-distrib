@@ -1,6 +1,29 @@
 LOTRO Companion
 Release Notes / History
 
+20.3.34.0 (17/11/2022)
+- new features
+	- hobbies (=fishing...) status
+	- the user manual describes how to make the import work on Mac
+- updates/improvements
+	- data for Update 34.0
+	- fixed pointers for the "import from client" feature
+	- better support for armour/weapon proficiencies (now based on an updatable XML file, not on hard coded values)
+	- improved the race display window: added nationalities
+	- improved the layout of the import window (start button is visible on screen with low height)
+	- added "equipment category" on items
+	- updated game constants:
+		- max virtue tier: 84
+- bug fixes:
+	- removed duplicate "class trait" entries in class definitions
+- refactorings:
+	- refactoring of the traits imports to allow further uses (for instance skirmish traits status)
+	- refactoring of the trait trees code to allow further uses (mounted combat tree, epic battles tree)
+	- improvements of icons storage in GIT (to be continued)
+- won't do:
+	- add "acquisition date" on trait points status
+(see also: https://github.com/LotroCompanion/lotro-companion/milestone/16)
+
 20.2.33.2.1 (30/09/2022)
 - new features
 	- added a CSV export for the item scaling table

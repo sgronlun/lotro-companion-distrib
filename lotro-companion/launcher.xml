@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><launcherConfig mainClass="delta.games.lotro.Main" rootDir="lib">
 <classpath>
 <classpathEntry path="patches"/>
-<classpathEntry path="delta-lotro-companion-20.2.jar"/>
-<classpathEntry path="delta-lotro-memory-5.9.jar"/>
-<classpathEntry path="delta-lotro-data-extractor-5.8.jar"/>
-<classpathEntry path="delta-lotro-dat-utils-8.0.jar"/>
+<classpathEntry path="delta-lotro-companion-20.3.jar"/>
+<classpathEntry path="delta-lotro-memory-5.10.jar"/>
+<classpathEntry path="delta-lotro-data-extractor-5.9.jar"/>
+<classpathEntry path="delta-lotro-dat-utils-8.0.1.jar"/>
 <classpathEntry path="delta-json-1.1.1.jar"/>
-<classpathEntry path="delta-lotro-core-20.2.jar"/>
+<classpathEntry path="delta-lotro-core-20.3.jar"/>
 <classpathEntry path="delta-lotro-maps-3.4.jar"/>
-<classpathEntry path="delta-common-1.7.1.jar"/>
+<classpathEntry path="delta-common-1.7.2.jar"/>
 <classpathEntry path="delta-common-l10n-1.0.jar"/>
 <classpathEntry path="delta-common-ui-1.22.jar"/>
 <classpathEntry path="pcap4j-core-1.8.2.jar"/>
@@ -27,13 +27,10 @@
 <classpathEntry path="emoteIcons.zip"/>
 <classpathEntry path="itemIcons.zip"/>
 <classpathEntry path="legaciesIcons.zip"/>
-<classpathEntry path="mountIcons.zip"/>
-<classpathEntry path="petIcons.zip"/>
 <classpathEntry path="relicIcons.zip"/>
 <classpathEntry path="skillIcons.zip"/>
 <classpathEntry path="titleIcons.zip"/>
 <classpathEntry path="traitIcons.zip"/>
-<classpathEntry path="virtueIcons.zip"/>
 <classpathEntry path="miscIcons.zip"/>
 <classpathEntry path="hobbyIcons.zip"/>
 </classpath>

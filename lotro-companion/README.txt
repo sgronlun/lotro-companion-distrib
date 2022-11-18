@@ -51,7 +51,7 @@ But the character log and the warbands statistics will be useless for new users.
 ----------------
 3.1.1 Items
 -----------
-The items database contains all items/icons for Update 33.2.1 (27/09/2022).
+The items database contains all items/icons for Update 34 (15/11/2022).
 The application handles scalable items: set the item level to get the appropriate stats. Some items may have bugs.
 
 3.1.2 Import
